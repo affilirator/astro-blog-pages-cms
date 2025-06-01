@@ -1,0 +1,113 @@
+{
+  "title": "goated all the time",
+  "domain": "goated.com",
+  "slug": "goated-all-the-time",
+  "tenant": "683bd18dd204a5ad9b0d1819",
+  "editors": [
+    "683bd18cd204a5ad9b0d180b"
+  ],
+  "githubBranch": "goated-all-the-time-1748757817574",
+  "header": {
+    "layout": "left",
+    "position": "static",
+    "logo": {
+      "type": "text",
+      "image": null,
+      "svg": null,
+      "text": "your logo",
+      "mobile": {
+        "useDifferent": false,
+        "type": "image",
+        "text": {
+          "size": "md"
+        }
+      }
+    },
+    "navLinks": [],
+    "cta": {
+      "icon": {
+        "type": "none"
+      }
+    }
+  },
+  "businessInfo": {
+    "businessLegalName": null,
+    "businessDesc": null,
+    "foundingDate": null
+  },
+  "address": {
+    "street": null,
+    "suite": null,
+    "city": null,
+    "state": null,
+    "zipCode": null,
+    "country": "United States",
+    "latitude": null,
+    "longitude": null
+  },
+  "contact": {
+    "phone": "0710251380",
+    "email": null,
+    "privacyPolicyURL": null,
+    "aboutUsURL": null,
+    "contactUsURL": null,
+    "termsOfServiceURL": null,
+    "socialMedia": {},
+    "customerServiceHours": []
+  },
+  "footer": {
+    "footerStyle": "classic",
+    "columns": [],
+    "styling": {
+      "backgroundColor": null,
+      "textColor": null,
+      "fontSize": "md"
+    },
+    "footerLogo": {
+      "image": null,
+      "position": "top-left",
+      "maxWidth": 150
+    },
+    "newsletter": {
+      "enabled": false,
+      "title": "Subscribe to Our Newsletter",
+      "buttonText": "Subscribe"
+    },
+    "disclaimers": {
+      "amazonAffiliate": {
+        "enabled": false,
+        "customText": "As an Amazon Associate, we earn from qualifying purchases."
+      }
+    },
+    "additionalBlocks": [],
+    "content": null
+  },
+  "socialLinks": [],
+  "adCode": null,
+  "favicon": null,
+  "theme": null,
+  "navigation": [],
+  "seoDefaults": {
+    "metaTitle": null,
+    "metaDescription": null,
+    "ogImage": null
+  },
+  "analytics": {
+    "trackingId": null
+  },
+  "robots": {
+    "pages": "index,follow",
+    "pagesAdvanced": null,
+    "posts": "index,follow",
+    "postsAdvanced": null,
+    "tags": "index,follow",
+    "tagsAdvanced": null,
+    "categories": "index,follow",
+    "categoriesAdvanced": null
+  },
+  "urlStructure": {
+    "blogBaseSlug": "https://goated.com/httpsgoatedcomblog",
+    "tagsBaseSlug": "https://goated.com/httpsgoatedcomtags",
+    "categoriesBaseSlug": "https://goated.com/httpsgoatedcomcategories"
+  }
+}
