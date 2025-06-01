@@ -2,7 +2,7 @@
   "title": "Older KFF from Admin Account",
   "domain": "kenyaforexfirm.co.ke",
   "slug": "kenya-forex-firm",
-  "tenant": "683bd18dd204a5ad9b0d1819",
+  "tenant": "683c648e018e8d49da36f65a",
   "editors": [
     "683c490b2da70990bfb9c9f2"
   ],
@@ -106,8 +106,8 @@
     "categoriesAdvanced": null
   },
   "urlStructure": {
-    "blogBaseSlug": "https://kenyaforexfirm.co.ke/httpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomblog",
-    "tagsBaseSlug": "https://kenyaforexfirm.co.ke/httpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomtags",
-    "categoriesBaseSlug": "https://kenyaforexfirm.co.ke/httpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomcategories"
+    "blogBaseSlug": "https://kenyaforexfirm.co.ke/httpskenyaforexfirmcokehttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomblog",
+    "tagsBaseSlug": "https://kenyaforexfirm.co.ke/httpskenyaforexfirmcokehttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomtags",
+    "categoriesBaseSlug": "https://kenyaforexfirm.co.ke/httpskenyaforexfirmcokehttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomcategories"
   }
 }
