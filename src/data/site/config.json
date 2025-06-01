@@ -1,0 +1,113 @@
+{
+  "title": "kenya forex firm",
+  "domain": "kenyaforexfirm.com",
+  "slug": "kenya-forex-firm",
+  "tenant": "683bd18dd204a5ad9b0d1819",
+  "editors": [
+    "683c490b2da70990bfb9c9f2"
+  ],
+  "githubBranch": "content/kenya-forex-firm-1748756581721",
+  "header": {
+    "layout": "left",
+    "position": "static",
+    "logo": {
+      "type": "text",
+      "image": null,
+      "svg": null,
+      "text": "mylogio",
+      "mobile": {
+        "useDifferent": false,
+        "type": "image",
+        "text": {
+          "size": "md"
+        }
+      }
+    },
+    "navLinks": [],
+    "cta": {
+      "icon": {
+        "type": "none"
+      }
+    }
+  },
+  "businessInfo": {
+    "businessLegalName": "kenya Forex Firm",
+    "businessDesc": null,
+    "foundingDate": null
+  },
+  "address": {
+    "street": "30",
+    "suite": null,
+    "city": "Kikuyu",
+    "state": null,
+    "zipCode": null,
+    "country": "United States",
+    "latitude": null,
+    "longitude": null
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "privacyPolicyURL": null,
+    "aboutUsURL": null,
+    "contactUsURL": null,
+    "termsOfServiceURL": null,
+    "socialMedia": {},
+    "customerServiceHours": []
+  },
+  "footer": {
+    "footerStyle": "classic",
+    "columns": [],
+    "styling": {
+      "backgroundColor": null,
+      "textColor": null,
+      "fontSize": "md"
+    },
+    "footerLogo": {
+      "image": null,
+      "position": "top-left",
+      "maxWidth": 150
+    },
+    "newsletter": {
+      "enabled": false,
+      "title": "Subscribe to Our Newsletter",
+      "buttonText": "Subscribe"
+    },
+    "disclaimers": {
+      "amazonAffiliate": {
+        "enabled": false,
+        "customText": "As an Amazon Associate, we earn from qualifying purchases."
+      }
+    },
+    "additionalBlocks": [],
+    "content": null
+  },
+  "socialLinks": [],
+  "adCode": null,
+  "favicon": null,
+  "theme": null,
+  "navigation": [],
+  "seoDefaults": {
+    "metaTitle": null,
+    "metaDescription": null,
+    "ogImage": null
+  },
+  "analytics": {
+    "trackingId": null
+  },
+  "robots": {
+    "pages": "index,follow",
+    "pagesAdvanced": null,
+    "posts": "index,follow",
+    "postsAdvanced": null,
+    "tags": "index,follow",
+    "tagsAdvanced": null,
+    "categories": "index,follow",
+    "categoriesAdvanced": null
+  },
+  "urlStructure": {
+    "blogBaseSlug": "https://kenyaforexfirm.com/httpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomblog",
+    "tagsBaseSlug": "https://kenyaforexfirm.com/httpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomtags",
+    "categoriesBaseSlug": "https://kenyaforexfirm.com/httpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomhttpskenyaforexfirmcomcategories"
+  }
+}
