@@ -47,12 +47,15 @@
   },
   "contact": {
     "phone": "0710251380",
-    "email": null,
-    "privacyPolicyURL": null,
+    "email": "contact@mahinge.com",
+    "privacyPolicyURL": "privacy",
     "aboutUsURL": null,
-    "contactUsURL": null,
-    "termsOfServiceURL": null,
-    "socialMedia": {},
+    "contactUsURL": "https://myurl.com/contact",
+    "termsOfServiceURL": "/terms/",
+    "socialMedia": {
+      "facebook": "facebook",
+      "twitter": "twiter"
+    },
     "customerServiceHours": []
   },
   "footer": {
@@ -106,8 +109,8 @@
     "categoriesAdvanced": null
   },
   "urlStructure": {
-    "blogBaseSlug": "https://goated.com/httpsgoatedcomblog",
-    "tagsBaseSlug": "https://goated.com/httpsgoatedcomtags",
-    "categoriesBaseSlug": "https://goated.com/httpsgoatedcomcategories"
+    "blogBaseSlug": "https://goated.com/httpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomblog",
+    "tagsBaseSlug": "https://goated.com/httpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomtags",
+    "categoriesBaseSlug": "https://goated.com/httpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomcategories"
   }
 }
