@@ -1,0 +1,16 @@
+{
+  "createdAt": "2025-06-01T14:10:53.756Z",
+  "updatedAt": "2025-06-02T11:38:55.847Z",
+  "status": "published",
+  "name": "Business",
+  "slug": "business",
+  "tenantCount": 0,
+  "limits": {
+    "maxBlogs": 10,
+    "maxEditors": 5,
+    "maxDomains": 5,
+    "maxPosts": 499
+  },
+  "price": 29.99,
+  "id": "683c5f6d018e8d49da36f554"
+}
