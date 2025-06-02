@@ -1,0 +1,34 @@
+{
+  "createdAt": "2025-06-02T12:56:32.506Z",
+  "updatedAt": "2025-06-02T12:56:32.506Z",
+  "status": "published",
+  "name": "440's Website",
+  "subdomain": "440-6fbe3",
+  "slug": "440-6fbe3",
+  "subscriptionPlan": {
+    "createdAt": "2025-06-01T02:02:23.166Z",
+    "updatedAt": "2025-06-02T12:40:18.128Z",
+    "status": "published",
+    "name": "Free",
+    "slug": "free",
+    "tenantCount": 0,
+    "limits": {
+      "maxBlogs": 1,
+      "maxEditors": 1,
+      "maxDomains": 1,
+      "maxPosts": 10
+    },
+    "price": 0,
+    "id": "683bb4afd864ff4169d6736a"
+  },
+  "customLimits": {},
+  "admins": {
+    "firstName": "440",
+    "lastName": "NG",
+    "fullName": "440 NG",
+    "status": "published",
+    "role": "author",
+    "id": "683d9f807d7deb111d91d664"
+  },
+  "id": "683d9f807d7deb111d91d668"
+}
