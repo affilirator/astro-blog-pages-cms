@@ -1,0 +1,34 @@
+{
+  "createdAt": "2025-06-02T13:02:32.307Z",
+  "updatedAt": "2025-06-02T13:02:32.307Z",
+  "status": "published",
+  "name": "Patrick's Website",
+  "subdomain": "patrick-26e1c",
+  "slug": "patrick-26e1c",
+  "subscriptionPlan": {
+    "createdAt": "2025-06-01T02:02:23.166Z",
+    "updatedAt": "2025-06-02T12:40:18.128Z",
+    "status": "published",
+    "name": "Free",
+    "slug": "free",
+    "tenantCount": 0,
+    "limits": {
+      "maxBlogs": 1,
+      "maxEditors": 1,
+      "maxDomains": 1,
+      "maxPosts": 10
+    },
+    "price": 0,
+    "id": "683bb4afd864ff4169d6736a"
+  },
+  "customLimits": {},
+  "admins": {
+    "firstName": "Patrick",
+    "lastName": "Mahinge",
+    "fullName": "Patrick Mahinge",
+    "status": "published",
+    "role": "author",
+    "id": "683da0e77d7deb111d91d736"
+  },
+  "id": "683da0e87d7deb111d91d73a"
+}
