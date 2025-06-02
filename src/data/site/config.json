@@ -32,7 +32,7 @@
   },
   "businessInfo": {
     "businessLegalName": "Prediet Plan",
-    "businessDesc": null,
+    "businessDesc": "The website to rule them all.",
     "foundingDate": null
   },
   "address": {
@@ -106,8 +106,8 @@
     "categoriesAdvanced": null
   },
   "urlStructure": {
-    "blogBaseSlug": "https://default-domain/httpsdefault-domainblog",
-    "tagsBaseSlug": "https://default-domain/httpsdefault-domaintags",
-    "categoriesBaseSlug": "https://default-domain/httpsdefault-domaincategories"
+    "blogBaseSlug": "https://default-domain/httpsdefault-domainhttpsdefault-domainblog",
+    "tagsBaseSlug": "https://default-domain/httpsdefault-domainhttpsdefault-domaintags",
+    "categoriesBaseSlug": "https://default-domain/httpsdefault-domainhttpsdefault-domaincategories"
   }
 }
