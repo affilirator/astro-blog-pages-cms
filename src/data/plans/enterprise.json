@@ -1,0 +1,16 @@
+{
+  "createdAt": "2025-06-01T14:10:54.122Z",
+  "updatedAt": "2025-06-02T11:38:57.955Z",
+  "status": "published",
+  "name": "Enterprise",
+  "slug": "enterprise",
+  "tenantCount": 0,
+  "limits": {
+    "maxBlogs": 0,
+    "maxEditors": 0,
+    "maxDomains": 0,
+    "maxPosts": 0
+  },
+  "price": 99.99,
+  "id": "683c5f6e018e8d49da36f55d"
+}
