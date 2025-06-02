@@ -1,0 +1,17 @@
+{
+  "createdAt": "2025-06-01T14:32:46.213Z",
+  "updatedAt": "2025-06-02T12:47:24.559Z",
+  "status": "published",
+  "name": "Kenya Forex Firm",
+  "subdomain": "kff",
+  "slug": "kenyaforexfirm",
+  "subscriptionPlan": "683c5f6e018e8d49da36f55d",
+  "customLimits": {
+    "maxBlogs": 100,
+    "maxEditors": 100,
+    "maxDomains": 100,
+    "maxPosts": 100
+  },
+  "admins": "683c490b2da70990bfb9c9f2",
+  "id": "683c648e018e8d49da36f65a"
+}
