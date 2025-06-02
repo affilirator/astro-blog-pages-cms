@@ -1,0 +1,16 @@
+{
+  "createdAt": "2025-06-01T14:10:53.099Z",
+  "updatedAt": "2025-06-02T11:38:53.759Z",
+  "status": "published",
+  "name": "Hobby",
+  "slug": "hobby",
+  "tenantCount": 0,
+  "limits": {
+    "maxBlogs": 3,
+    "maxEditors": 2,
+    "maxDomains": 2,
+    "maxPosts": 99
+  },
+  "price": 9.99,
+  "id": "683c5f6d018e8d49da36f549"
+}
