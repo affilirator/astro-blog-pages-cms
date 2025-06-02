@@ -2,7 +2,7 @@
   "title": "goated all the time",
   "domain": "goated.com",
   "slug": "goated-all-the-time",
-  "tenant": "683bd18dd204a5ad9b0d1819",
+  "tenant": "683c648e018e8d49da36f65a",
   "editors": [
     "683bd18cd204a5ad9b0d180b"
   ],
@@ -110,8 +110,8 @@
     "categoriesAdvanced": null
   },
   "urlStructure": {
-    "blogBaseSlug": "https://goated.com/httpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomblog",
-    "tagsBaseSlug": "https://goated.com/httpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomtags",
-    "categoriesBaseSlug": "https://goated.com/httpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomcategories"
+    "blogBaseSlug": "https://goated.com/httpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomblog",
+    "tagsBaseSlug": "https://goated.com/httpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomtags",
+    "categoriesBaseSlug": "https://goated.com/httpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomhttpsgoatedcomcategories"
   }
 }
