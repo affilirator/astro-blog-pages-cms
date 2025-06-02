@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-01T02:02:23.166Z",
-  "updatedAt": "2025-06-02T16:13:33.014Z",
+  "updatedAt": "2025-06-02T18:13:34.758Z",
   "status": "published",
   "name": "Free",
   "slug": "free",
@@ -9,7 +9,7 @@
     "maxBlogs": 1,
     "maxEditors": 1,
     "maxDomains": 1,
-    "maxPosts": 10
+    "maxPosts": 49
   },
   "price": 0,
   "id": "683bb4afd864ff4169d6736a"
