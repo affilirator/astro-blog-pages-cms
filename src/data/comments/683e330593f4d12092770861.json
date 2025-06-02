@@ -1,0 +1,15 @@
+{
+  "createdAt": "2025-06-02T23:25:57.709Z",
+  "updatedAt": "2025-06-02T23:25:57.709Z",
+  "content": "A comment in a blog",
+  "author": {
+    "name": "Patrick",
+    "email": "example@blogs.com",
+    "user": "683da6c82057c3b68d8e7d45"
+  },
+  "blog": "683dbcd9656854fd5a8b5be4",
+  "post": "683df702a98cbde82f80a486",
+  "status": "pending",
+  "tenant": "683da6c82057c3b68d8e7d49",
+  "id": "683e330593f4d12092770861"
+}
