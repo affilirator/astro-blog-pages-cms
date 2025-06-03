@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-03T00:36:36.223Z",
-  "updatedAt": "2025-06-03T01:50:01.570Z",
+  "updatedAt": "2025-06-03T06:11:37.498Z",
   "tenant": "683da6c82057c3b68d8e7d49",
   "title": "Fxpesa Review - An Unbiased Expert Review - Updated 2025",
   "draft": false,
@@ -14,7 +14,7 @@
   "brokerWebsite": "fxpesa.com",
   "yearFounded": 2019,
   "headquarters": "nairobi, kenya",
-  "brokerRating": 7.7,
+  "brokerRating": 7.1,
   "minDeposit": 5,
   "tradeableAssets": {},
   "accountTypes": [],
@@ -69,11 +69,11 @@
   "ratings": {
     "feesAndCommissions": 7,
     "safetyAndRegulation": 8,
-    "tradingPlatforms": 8,
-    "depositAndWithdrawals": 7,
-    "accountOpening": 9,
+    "tradingPlatforms": 7,
+    "depositAndWithdrawals": 6,
+    "accountOpening": 8,
     "additionalFeatures": 7,
-    "customerService": 8
+    "customerService": 7
   },
   "categoryRatings": [],
   "tradingPlatforms": [],
@@ -89,5 +89,6 @@
   "blog": "683dbcd9656854fd5a8b5be4",
   "status": "published",
   "updatedDate": "2025-06-01T21:00:00.000Z",
+  "withdrawalFees": "0",
   "id": "683e4394c745db06d4af8d2a"
 }
