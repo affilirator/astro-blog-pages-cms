@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-03T00:36:36.223Z",
-  "updatedAt": "2025-06-03T01:34:32.974Z",
+  "updatedAt": "2025-06-03T01:34:56.146Z",
   "tenant": "683da6c82057c3b68d8e7d49",
   "title": "Fxpesa Review - An Unbiased Expert Review - Updated 2025",
   "draft": false,
@@ -67,7 +67,13 @@
     }
   ],
   "ratings": {
-    "safetyAndRegulation": null
+    "feesAndCommissions": 1,
+    "safetyAndRegulation": 2,
+    "tradingPlatforms": 3,
+    "depositAndWithdrawals": 4,
+    "accountOpening": 4,
+    "additionalFeatures": 4,
+    "customerService": 4
   },
   "categoryRatings": [],
   "tradingPlatforms": [],
