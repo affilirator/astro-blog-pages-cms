@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-03T00:36:36.223Z",
-  "updatedAt": "2025-06-03T01:00:46.462Z",
+  "updatedAt": "2025-06-03T01:06:26.465Z",
   "tenant": "683da6c82057c3b68d8e7d49",
   "title": "fxpesa by egm securities",
   "draft": false,
@@ -18,8 +18,54 @@
   "minDeposit": 5,
   "tradeableAssets": {},
   "accountTypes": [],
-  "pros": [],
-  "cons": [],
+  "pros": [
+    {
+      "pro": "Regulated by the Capital Markets Authority of Kenya",
+      "id": "683e4a92e9dab0e43b67683b"
+    },
+    {
+      "pro": "Offers a variety of account types to suit different trading needs",
+      "id": "683e4a92e9dab0e43b67683c"
+    },
+    {
+      "pro": "Provides access to popular trading platforms like MetaTrader 4",
+      "id": "683e4a92e9dab0e43b67683d"
+    },
+    {
+      "pro": "Competitive spreads and no commission on some account types",
+      "id": "683e4a92e9dab0e43b67683e"
+    },
+    {
+      "pro": "Local customer support available in Kenya",
+      "id": "683e4a92e9dab0e43b67683f"
+    },
+    {
+      "pro": "Easy account funding options, including mobile money services",
+      "id": "683e4a92e9dab0e43b676840"
+    }
+  ],
+  "cons": [
+    {
+      "con": "Limited to clients in specific regions, primarily focusing on Kenya",
+      "id": "683e4a92e9dab0e43b676841"
+    },
+    {
+      "con": "Educational resources could be more comprehensive",
+      "id": "683e4a92e9dab0e43b676842"
+    },
+    {
+      "con": "Limited range of tradable instruments compared to global brokers",
+      "id": "683e4a92e9dab0e43b676843"
+    },
+    {
+      "con": "No cryptocurrency trading available",
+      "id": "683e4a92e9dab0e43b676844"
+    },
+    {
+      "con": "Withdrawal fees may apply depending on the method used",
+      "id": "683e4a92e9dab0e43b676845"
+    }
+  ],
   "ratings": {},
   "categoryRatings": [],
   "tradingPlatforms": [],
@@ -33,6 +79,6 @@
   "faqs": [],
   "slug": "fxpesa",
   "blog": "683dbcd9656854fd5a8b5be4",
-  "status": "draft",
+  "status": "published",
   "id": "683e4394c745db06d4af8d2a"
 }
