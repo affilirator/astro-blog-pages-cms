@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-03T00:36:36.223Z",
-  "updatedAt": "2025-06-03T01:15:19.657Z",
+  "updatedAt": "2025-06-03T01:19:59.838Z",
   "tenant": "683da6c82057c3b68d8e7d49",
   "title": "fxpesa by egm securities",
   "draft": false,
@@ -80,5 +80,6 @@
   "slug": "fxpesa",
   "blog": "683dbcd9656854fd5a8b5be4",
   "status": "published",
+  "updatedDate": "2025-06-02T21:00:00.000Z",
   "id": "683e4394c745db06d4af8d2a"
 }
