@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-03T07:14:49.644Z",
-  "updatedAt": "2025-06-03T07:14:49.644Z",
+  "updatedAt": "2025-06-03T07:15:50.991Z",
   "generateData": false,
   "name": "Capital Markets Authority",
   "shortName": "CMA Kenya",
@@ -8,7 +8,7 @@
   "country": "Kenya",
   "region": "Africa",
   "established": 1989,
-  "maxLeverage": "1:20",
+  "maxLeverage": "1:400",
   "minDepositRequirement": 5000,
   "website": "https://www.cma.or.ke/",
   "logo": "683ea0ad7e852062372d5a6c",
@@ -20,5 +20,8 @@
   "blog": "683dbcd9656854fd5a8b5be4",
   "status": "draft",
   "tenant": "683da6c82057c3b68d8e7d49",
+  "regulatedBrokers": [
+    "683e4394c745db06d4af8d2a"
+  ],
   "id": "683ea0e97e852062372d5aa5"
 }
