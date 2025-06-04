@@ -1,0 +1,113 @@
+{
+  "title": "Kenya Forex Firm",
+  "domain": "kenyaforexfirm.com",
+  "slug": "kenya-forex-firm",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "editors": [
+    "683f46927e7deb35fd6bca83"
+  ],
+  "githubBranch": "kenya-forex-firm-mbhydpgt",
+  "header": {
+    "layout": "left",
+    "position": "static",
+    "logo": {
+      "type": "text",
+      "image": null,
+      "svg": null,
+      "text": "Kenya Forex Firm",
+      "mobile": {
+        "useDifferent": false,
+        "type": "image",
+        "text": {
+          "size": "md"
+        }
+      }
+    },
+    "navLinks": [],
+    "cta": {
+      "icon": {
+        "type": "none"
+      }
+    }
+  },
+  "businessInfo": {
+    "businessLegalName": null,
+    "businessDesc": null,
+    "foundingDate": null
+  },
+  "address": {
+    "street": null,
+    "suite": null,
+    "city": null,
+    "state": null,
+    "zipCode": null,
+    "country": "United States",
+    "latitude": null,
+    "longitude": null
+  },
+  "contact": {
+    "phone": null,
+    "email": null,
+    "privacyPolicyURL": null,
+    "aboutUsURL": null,
+    "contactUsURL": null,
+    "termsOfServiceURL": null,
+    "socialMedia": {},
+    "customerServiceHours": []
+  },
+  "footer": {
+    "footerStyle": "classic",
+    "columns": [],
+    "styling": {
+      "backgroundColor": null,
+      "textColor": null,
+      "fontSize": "md"
+    },
+    "footerLogo": {
+      "image": null,
+      "position": "top-left",
+      "maxWidth": 150
+    },
+    "newsletter": {
+      "enabled": false,
+      "title": "Subscribe to Our Newsletter",
+      "buttonText": "Subscribe"
+    },
+    "disclaimers": {
+      "amazonAffiliate": {
+        "enabled": false,
+        "customText": "As an Amazon Associate, we earn from qualifying purchases."
+      }
+    },
+    "additionalBlocks": [],
+    "content": null
+  },
+  "socialLinks": [],
+  "adCode": null,
+  "favicon": null,
+  "theme": null,
+  "navigation": [],
+  "seoDefaults": {
+    "metaTitle": null,
+    "metaDescription": null,
+    "ogImage": null
+  },
+  "analytics": {
+    "trackingId": null
+  },
+  "robots": {
+    "pages": "index,follow",
+    "pagesAdvanced": null,
+    "posts": "index,follow",
+    "postsAdvanced": null,
+    "tags": "index,follow",
+    "tagsAdvanced": null,
+    "categories": "index,follow",
+    "categoriesAdvanced": null
+  },
+  "urlStructure": {
+    "blogBaseSlug": "https://default-domain/blog",
+    "tagsBaseSlug": "https://default-domain/tags",
+    "categoriesBaseSlug": "https://default-domain/categories"
+  }
+}
