@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-03T21:33:51.893Z",
-  "updatedAt": "2025-06-03T21:33:51.893Z",
+  "updatedAt": "2025-06-11T21:50:57.454Z",
   "generateData": false,
   "name": "Capital Markets Authority",
   "shortName": "CMA",
@@ -14,11 +14,7 @@
   "trustScore": 78,
   "brokerRequirements": [],
   "investorProtection": [],
-  "regulatedBrokers": [
-    "683f6a3f228938c4b091f269",
-    "683f6a3f228938c4b091f26a",
-    "683f6a3f228938c4b091f26b"
-  ],
+  "regulatedBrokers": [],
   "pubDate": "2025-06-03T21:32:16.474Z",
   "slug": "cma",
   "blog": "683f5efb5be6c6501c75e045",
