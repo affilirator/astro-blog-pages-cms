@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-11T21:52:53.639Z",
-  "updatedAt": "2025-06-11T21:58:42.908Z",
+  "updatedAt": "2025-06-11T22:00:52.759Z",
   "generateData": false,
   "name": "Financial Conduct Authority (FCA)",
   "shortName": "FCA",
@@ -12,7 +12,12 @@
   "minDepositRequirement": 50000,
   "website": "https://www.fca.org.uk",
   "trustScore": 95,
-  "brokerRequirements": [],
+  "brokerRequirements": [
+    {
+      "requirement": "Minimum deposit of UK Pounds 50000",
+      "id": "6849fc791152fe7f8d01a55d"
+    }
+  ],
   "investorProtection": [],
   "pubDate": "2025-06-11T21:51:17.652Z",
   "slug": "fca",
