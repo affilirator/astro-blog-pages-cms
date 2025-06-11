@@ -1,0 +1,23 @@
+{
+  "createdAt": "2025-06-11T21:52:53.639Z",
+  "updatedAt": "2025-06-11T21:52:53.639Z",
+  "generateData": false,
+  "name": "Financial Conduct Authority (FCA)",
+  "shortName": "FCA",
+  "description": "The FCA is the conduct regulator for financial services firms and financial markets in the UK. It aims to protect consumers, enhance market integrity, and promote competition.",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "established": 2013,
+  "maxLeverage": "1:30",
+  "minDepositRequirement": 50000,
+  "website": "https://www.fca.org.uk",
+  "trustScore": 95,
+  "brokerRequirements": [],
+  "investorProtection": [],
+  "pubDate": "2025-06-11T21:51:17.652Z",
+  "slug": "fca",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "draft",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "id": "6849fab5bd960bf792118110"
+}
