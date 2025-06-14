@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-14T14:49:28.936Z",
-  "updatedAt": "2025-06-14T17:34:29.092Z",
+  "updatedAt": "2025-06-14T17:35:41.251Z",
   "generateData": false,
   "name": "Commodity Futures Trading Commission (CFTC)",
   "shortName": "CFTC",
@@ -20,6 +20,10 @@
     {
       "requirement": "Each forex firm needs at least one NFA-approved Associated Person ",
       "id": "684db288fa35226f829af8e9"
+    },
+    {
+      "requirement": "Forex brokers must reconfirm client financial data yearly ",
+      "id": "684db2dffa35226f829af8ea"
     }
   ],
   "investorProtection": [],
