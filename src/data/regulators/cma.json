@@ -1,15 +1,15 @@
 {
   "createdAt": "2025-06-03T21:33:51.893Z",
-  "updatedAt": "2025-06-14T16:43:26.881Z",
+  "updatedAt": "2025-06-14T16:48:45.709Z",
   "generateData": false,
-  "name": "Capital Markets Authority (CMA)",
+  "name": "Capital Markets Authority",
   "shortName": "CMA",
   "description": "The Capital Markets Authority (CMA) is the regulatory body for the capital markets industry in Kenya. It oversees securities transactions, licensing, market infrastructure, and investor protection to ensure fair, efficient, and transparent markets.",
   "country": "Kenya",
   "region": "East Africa",
   "established": 1989,
-  "maxLeverage": "1:400",
-  "minDepositRequirement": 50000000,
+  "maxLeverage": "1:100",
+  "minDepositRequirement": 1000,
   "website": "https://www.cma.or.ke",
   "trustScore": 78,
   "brokerRequirements": [],
@@ -20,5 +20,7 @@
   "blog": "683f5efb5be6c6501c75e045",
   "status": "draft",
   "tenant": "683f46937e7deb35fd6bca89",
+  "featuredImage": "684da76f2ee6d9cd58d119b9",
+  "logo": "684da7472ee6d9cd58d119a4",
   "id": "683f6a3fae9d93154d096529"
 }
