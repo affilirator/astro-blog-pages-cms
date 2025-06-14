@@ -1,0 +1,23 @@
+{
+  "createdAt": "2025-06-14T14:49:28.936Z",
+  "updatedAt": "2025-06-14T14:49:28.936Z",
+  "generateData": false,
+  "name": "Commodity Futures Trading Commission (CFTC)",
+  "shortName": "CFTC",
+  "description": "The Kenya Commodity Futures Trading Commission is the primary regulator of commodity and derivatives markets in Kenya, overseeing the licensing, supervision, and enforcement of rules governing futures and options trading to ensure market integrity and protect investors.",
+  "country": "Kenya",
+  "region": "Eastern Africa",
+  "established": 2005,
+  "maxLeverage": "1:100",
+  "minDepositRequirement": 100000,
+  "website": "https://www.cftckenya.go.ke",
+  "trustScore": 78,
+  "brokerRequirements": [],
+  "investorProtection": [],
+  "pubDate": "2025-06-14T14:48:21.211Z",
+  "slug": "cftc",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "draft",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "id": "684d8bf8e60bf3d956c43c83"
+}
