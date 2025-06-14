@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-14T14:49:28.936Z",
-  "updatedAt": "2025-06-14T16:39:03.620Z",
+  "updatedAt": "2025-06-14T16:42:14.986Z",
   "generateData": false,
   "name": "Commodity Futures Trading Commission (CFTC)",
   "shortName": "CFTC",
@@ -20,5 +20,6 @@
   "status": "published",
   "tenant": "683f46937e7deb35fd6bca89",
   "logo": "684d9150b755c1a63952c623",
+  "bottomline": "The CFTC’s framework isn’t about stifling innovation—it’s about ensuring the forex market’s integrity outlives its participants.",
   "id": "684d8bf8e60bf3d956c43c83"
 }
