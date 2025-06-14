@@ -1,8 +1,8 @@
 {
   "createdAt": "2025-06-12T03:58:02.989Z",
-  "updatedAt": "2025-06-14T14:33:00.334Z",
+  "updatedAt": "2025-06-14T14:47:42.295Z",
   "generateData": false,
-  "name": "Cyprus Securities and Exchange Commission",
+  "name": "Cyprus Securities and Exchange Commission (CySEC)",
   "shortName": "CySEC",
   "description": "The Cyprus Securities and Exchange Commission is the public supervisory authority responsible for the regulation of the securities market and investment services firms in Cyprus. It enforces compliance with EU directives, issues licenses to Cyprus Investment Firms (CIFs), and safeguards investor interests through robust oversight and enforcement.",
   "country": "Cyprus",
@@ -17,7 +17,8 @@
   "pubDate": "2025-06-12T03:55:57.005Z",
   "slug": "cysec",
   "blog": "684042e245e28e4550cbd4e6",
-  "status": "draft",
+  "status": "published",
   "tenant": "683f46937e7deb35fd6bca89",
+  "logo": "684d8b55e60bf3d956c43c5c",
   "id": "684a504aea003a1eab353113"
 }
