@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-14T14:49:28.936Z",
-  "updatedAt": "2025-06-14T15:14:46.262Z",
+  "updatedAt": "2025-06-14T16:39:03.620Z",
   "generateData": false,
   "name": "Commodity Futures Trading Commission (CFTC)",
   "shortName": "CFTC",
@@ -8,7 +8,7 @@
   "country": "United States of Ameroca",
   "region": "USA",
   "established": 2005,
-  "maxLeverage": "1:100",
+  "maxLeverage": "50:1",
   "minDepositRequirement": 20000000,
   "website": "https://www.cftc.gov/",
   "trustScore": 98,
