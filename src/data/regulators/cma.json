@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-03T21:33:51.893Z",
-  "updatedAt": "2025-06-14T16:43:43.373Z",
+  "updatedAt": "2025-06-14T16:47:50.600Z",
   "generateData": false,
   "name": "Capital Markets Authority (CMA)",
   "shortName": "CMA",
@@ -20,5 +20,7 @@
   "blog": "684042e245e28e4550cbd4e6",
   "status": "published",
   "tenant": "683f46937e7deb35fd6bca89",
+  "featuredImage": "684da76f2ee6d9cd58d119b9",
+  "logo": "684da7472ee6d9cd58d119a4",
   "id": "683f6a3fae9d93154d096529"
 }
