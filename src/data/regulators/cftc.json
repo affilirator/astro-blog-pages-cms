@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-14T14:49:28.936Z",
-  "updatedAt": "2025-06-14T15:10:33.151Z",
+  "updatedAt": "2025-06-14T15:13:29.791Z",
   "generateData": false,
   "name": "Commodity Futures Trading Commission (CFTC)",
   "shortName": "CFTC",
@@ -10,14 +10,15 @@
   "established": 2005,
   "maxLeverage": "1:100",
   "minDepositRequirement": 20000000,
-  "website": "https://www.cftckenya.go.ke",
-  "trustScore": 78,
+  "website": "https://www.cftc.gov/",
+  "trustScore": 98,
   "brokerRequirements": [],
   "investorProtection": [],
   "pubDate": "2025-06-14T14:48:21.211Z",
   "slug": "cftc",
   "blog": "684042e245e28e4550cbd4e6",
-  "status": "draft",
+  "status": "published",
   "tenant": "683f46937e7deb35fd6bca89",
+  "logo": "684d9150b755c1a63952c623",
   "id": "684d8bf8e60bf3d956c43c83"
 }
