@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-14T14:49:28.936Z",
-  "updatedAt": "2025-06-14T16:42:14.986Z",
+  "updatedAt": "2025-06-14T17:34:29.092Z",
   "generateData": false,
   "name": "Commodity Futures Trading Commission (CFTC)",
   "shortName": "CFTC",
@@ -12,7 +12,16 @@
   "minDepositRequirement": 20000000,
   "website": "https://www.cftc.gov/",
   "trustScore": 98,
-  "brokerRequirements": [],
+  "brokerRequirements": [
+    {
+      "requirement": "5-year retention of all promotional materials/comms ",
+      "id": "684db27afa35226f829af8e8"
+    },
+    {
+      "requirement": "Each forex firm needs at least one NFA-approved Associated Person ",
+      "id": "684db288fa35226f829af8e9"
+    }
+  ],
   "investorProtection": [],
   "pubDate": "2025-06-14T14:48:21.211Z",
   "slug": "cftc",
