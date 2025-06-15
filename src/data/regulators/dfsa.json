@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T00:39:17.786Z",
-  "updatedAt": "2025-06-15T00:49:43.947Z",
+  "updatedAt": "2025-06-15T00:56:36.447Z",
   "generateData": false,
   "name": "Dubai Financial Services Authority (DFSA)",
   "shortName": "DFSA",
@@ -27,7 +27,20 @@
       "id": "684e17eb2d692ac2a0574f2f"
     }
   ],
-  "investorProtection": [],
+  "investorProtection": [
+    {
+      "protection": "Every broker undergoes meticulous scrutiny before accessing the DIFC.",
+      "id": "684e1a052d692ac2a0574f30"
+    },
+    {
+      "protection": "24/7 market monitoring backed by a risk-based philosophy",
+      "id": "684e1a0b2d692ac2a0574f31"
+    },
+    {
+      "protection": "Powers to investigate, sanction, or revoke licenses for breaches",
+      "id": "684e1a392d692ac2a0574f33"
+    }
+  ],
   "pubDate": "2025-06-15T00:37:18.107Z",
   "slug": "dfsa",
   "blog": "684042e245e28e4550cbd4e6",
