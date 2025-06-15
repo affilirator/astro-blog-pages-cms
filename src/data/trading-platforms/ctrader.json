@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T12:54:33.949Z",
-  "updatedAt": "2025-06-15T13:33:46.844Z",
+  "updatedAt": "2025-06-15T13:35:02.453Z",
   "name": "cTrader",
   "isProprietary": false,
   "logo": "684ec27f22b0aa8856612d54",
@@ -19,7 +19,12 @@
     "isFree": true,
     "pricingModel": []
   },
-  "userExperience": {},
+  "userExperience": {
+    "beginnerFriendly": 8.2,
+    "customizability": 9.7,
+    "speed": 9.8,
+    "reliability": 9.8
+  },
   "screenshots": [],
   "downloadLinks": {},
   "faqs": [],
@@ -31,5 +36,6 @@
   "meta": {},
   "developer": "Spotware Systems Ltd (Limassol/London)",
   "yearReleased": 2011,
+  "officialWebsite": "https://ctrader.com/",
   "id": "684ec28922b0aa8856612d5e"
 }
