@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T00:39:17.786Z",
-  "updatedAt": "2025-06-15T01:04:24.539Z",
+  "updatedAt": "2025-06-15T01:05:15.175Z",
   "generateData": false,
   "name": "Dubai Financial Services Authority (DFSA)",
   "shortName": "DFSA",
@@ -39,6 +39,10 @@
     {
       "protection": "Powers to investigate, sanction, or revoke licenses for breaches",
       "id": "684e1a392d692ac2a0574f33"
+    },
+    {
+      "protection": "Real-Time Reporting: All DIFC brokers must disclose execution speeds, slippage stats, and requotes ",
+      "id": "684e1c4392204e860e6c2bc8"
     }
   ],
   "pubDate": "2025-06-15T00:37:18.107Z",
