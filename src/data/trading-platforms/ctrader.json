@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T12:54:33.949Z",
-  "updatedAt": "2025-06-15T13:52:28.504Z",
+  "updatedAt": "2025-06-15T13:54:35.112Z",
   "name": "cTrader",
   "isProprietary": false,
   "logo": "684ec27f22b0aa8856612d54",
@@ -24,7 +24,20 @@
       "id": "684ecf762e26e3dbf5f09b2e"
     }
   ],
-  "chartsAndAnalysis": [],
+  "chartsAndAnalysis": [
+    {
+      "feature": "Laser-Focused Execution: cTrader connects directly to ECN brokers (like Pepperstone and FxPro) for razor-thin spreads. Its Level II Pricing displays real-time market depth—showing you exactly where liquidity pools sit. During the 2023 CHF flash crash, this transparency saved several of my clients from catastrophic slippage ",
+      "id": "684ed06f2e26e3dbf5f09b30"
+    },
+    {
+      "feature": "Charting That Feels Like a Pro Lab: With 26+ timeframes (including tick-specific views), Renko bricks, and Heikin-Ashi candles, cTrader caters to quant-minded traders. The 70+ built-in indicators (like the Hull MA and Williams Ultimate Oscillator) are fully customizable—drag, layer, and backtest without third-party plugins",
+      "id": "684ed0752e26e3dbf5f09b31"
+    },
+    {
+      "feature": "One-Click Workflow Revolution: Here’s a game-changer: set stop-losses by dragging lines directly onto charts. Reverse positions or trail stops to breakeven with a click. cTrader’s \"Quick Trade\" panel even aggregates trader sentiment—see if the crowd is leaning long or short on EUR/USD in real-time ",
+      "id": "684ed0862e26e3dbf5f09b32"
+    }
+  ],
   "automationCapabilities": [],
   "pros": [
     {
