@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T12:54:33.949Z",
-  "updatedAt": "2025-06-15T13:00:04.995Z",
+  "updatedAt": "2025-06-15T13:33:46.844Z",
   "name": "cTrader",
   "isProprietary": false,
   "logo": "684ec27f22b0aa8856612d54",
@@ -16,7 +16,7 @@
   "pros": [],
   "cons": [],
   "pricing": {
-    "isFree": false,
+    "isFree": true,
     "pricingModel": []
   },
   "userExperience": {},
@@ -29,7 +29,7 @@
   "status": "draft",
   "author": "683f46927e7deb35fd6bca83",
   "meta": {},
-  "developer": "Spotware Systems",
+  "developer": "Spotware Systems Ltd (Limassol/London)",
   "yearReleased": 2011,
   "id": "684ec28922b0aa8856612d5e"
 }
