@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T05:45:49.292Z",
-  "updatedAt": "2025-06-15T06:34:41.286Z",
+  "updatedAt": "2025-06-15T06:36:04.343Z",
   "generateData": false,
   "name": "Federal Financial Supervisory Authority (BaFin)",
   "shortName": "BaFin",
@@ -40,7 +40,16 @@
   "website": "https://www.deutsche-boerse.com/dbg-en/",
   "faqs": [],
   "trustScore": 93,
-  "brokerRequirements": [],
+  "brokerRequirements": [
+    {
+      "requirement": "Minimum €730,000 capital, scaling with client assets.",
+      "id": "684e699f622edd5268e1dd35"
+    },
+    {
+      "requirement": "Client funds must be held in top-tier banks, ring-fenced from operational capital ",
+      "id": "684e69ab622edd5268e1dd36"
+    }
+  ],
   "investorProtection": [
     {
       "protection": "Negative Balance Protection: You cannot lose more than your account balance",
