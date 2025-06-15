@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T15:17:55.940Z",
-  "updatedAt": "2025-06-15T15:19:33.739Z",
+  "updatedAt": "2025-06-15T15:23:08.739Z",
   "name": "TradingView",
   "isProprietary": false,
   "logo": "684ee3de88e8598590878278",
@@ -25,7 +25,12 @@
     ],
     "pricingDetails": "Unlike legacy platforms charging $1,500/month, TradingView adopted a freemium model—a gamble that fueled its viral growth among forex retail traders. Nonetheless, TradingView’s tiered pricing model sparks debate among forex traders. Casual traders thrive on Essential, but Premium pays for itself via backtesting alone. Save 16% with annual billing."
   },
-  "userExperience": {},
+  "userExperience": {
+    "beginnerFriendly": 8.6,
+    "customizability": 6.7,
+    "speed": 7,
+    "reliability": 8
+  },
   "screenshots": [],
   "downloadLinks": {},
   "faqs": [],
