@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T06:51:07.363Z",
-  "updatedAt": "2025-06-15T07:23:53.772Z",
+  "updatedAt": "2025-06-15T07:35:58.415Z",
   "generateData": false,
   "name": "Financial Services Commission (FSC)",
   "shortName": "FSC",
@@ -29,5 +29,7 @@
     "title": "The Mauritius Advantage: How the FSC is Reshaping Offshore Forex Regulation"
   },
   "bottomline": "The FSC isn’t trying to be the UK’s FCA—and that’s its strength. By focusing on jurisdictionally appropriate oversight with globally aligned principles, it has created what I call the \"Goldilocks offshore\": rigorous enough to deter bad actors, pragmatic enough to attract serious brokers.",
+  "keywords": [],
+  "logo": "684e77db29e24098cd8009ac",
   "id": "684e6d5b946e264fd2d00874"
 }
