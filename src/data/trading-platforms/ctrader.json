@@ -1,0 +1,33 @@
+{
+  "createdAt": "2025-06-15T12:54:33.949Z",
+  "updatedAt": "2025-06-15T12:54:33.949Z",
+  "name": "cTrader",
+  "isProprietary": false,
+  "logo": "684ec27f22b0aa8856612d54",
+  "type": [
+    "multi-platform"
+  ],
+  "description": "A cool platform",
+  "rating": 8.9,
+  "supportedDevices": [],
+  "tradingFeatures": [],
+  "chartsAndAnalysis": [],
+  "automationCapabilities": [],
+  "pros": [],
+  "cons": [],
+  "pricing": {
+    "isFree": false,
+    "pricingModel": []
+  },
+  "userExperience": {},
+  "screenshots": [],
+  "downloadLinks": {},
+  "faqs": [],
+  "pubDate": "2025-06-15T12:36:55.463Z",
+  "slug": "ctrader",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "draft",
+  "author": "683f46927e7deb35fd6bca83",
+  "meta": {},
+  "id": "684ec28922b0aa8856612d5e"
+}
