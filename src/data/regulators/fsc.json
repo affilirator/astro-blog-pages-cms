@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T06:51:07.363Z",
-  "updatedAt": "2025-06-15T06:51:07.363Z",
+  "updatedAt": "2025-06-15T07:00:57.316Z",
   "generateData": false,
   "name": "Financial Services Commission (FSC)",
   "shortName": "FSC",
@@ -25,6 +25,8 @@
   "status": "draft",
   "tenant": "683f46937e7deb35fd6bca89",
   "standoutFeatures": [],
-  "meta": {},
+  "meta": {
+    "title": "The Mauritius Advantage: How the FSC is Reshaping Offshore Forex Regulation"
+  },
   "id": "684e6d5b946e264fd2d00874"
 }
