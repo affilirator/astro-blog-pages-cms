@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T12:54:33.949Z",
-  "updatedAt": "2025-06-15T13:41:53.683Z",
+  "updatedAt": "2025-06-15T13:49:58.743Z",
   "name": "cTrader",
   "isProprietary": false,
   "logo": "684ec27f22b0aa8856612d54",
@@ -10,7 +10,20 @@
   "description": "cTrader isn’t \"better\" than MetaTrader—it’s different. It treats traders as power users, not passengers. For those craving control, it’s the closest thing to a professional terminal without the $2,000/month fee. As one hedge fund manager told me: “It turns retail traders into institutional players.”",
   "rating": 8.9,
   "supportedDevices": [],
-  "tradingFeatures": [],
+  "tradingFeatures": [
+    {
+      "feature": "cTrader Automate: Program cBots in C#—a language familiar to millions of developers. Backtest strategies against 10+ years of historical data, including synthetic indices (Boom/Crash). While MT4’s MQL community is larger, C# offers far greater flexibility for machine learning integrations ",
+      "id": "684ecf4c2e26e3dbf5f09b2c"
+    },
+    {
+      "feature": "cTrader Copy: Unlike opaque copy-trading systems, cTrader Copy shows full provider statistics—drawdown, risk score, equity curves. Filter by asset class or risk profile. I’ve seen consistent 8%-12% monthly returns from top providers here",
+      "id": "684ecf682e26e3dbf5f09b2d"
+    },
+    {
+      "feature": "Market-Replay Tool: Missed the BOE rate decision? Rewind and replay price action tick-by-tick. This free feature is exclusive to cTrader—ideal for refining scalping systems",
+      "id": "684ecf762e26e3dbf5f09b2e"
+    }
+  ],
   "chartsAndAnalysis": [],
   "automationCapabilities": [],
   "pros": [
