@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T08:20:32.932Z",
-  "updatedAt": "2025-06-15T08:56:02.497Z",
+  "updatedAt": "2025-06-15T11:56:05.240Z",
   "generateData": false,
   "name": "Australian Securities and Investments Commission (ASIC)",
   "shortName": "ASIC",
@@ -51,7 +51,18 @@
   "blog": "684042e245e28e4550cbd4e6",
   "status": "draft",
   "tenant": "683f46937e7deb35fd6bca89",
-  "standoutFeatures": [],
+  "standoutFeatures": [
+    {
+      "feature": "Flexibility",
+      "description": "Unlike FCA, ASIC allows hedging and scalping strategies",
+      "id": "684eb49b5d05096189ac9fb9"
+    },
+    {
+      "feature": "Enforcement",
+      "description": "ASIC’s 2020–2024 enforcement actions (124 bans, AUD 160M+ recovered) outpace CySEC’s ",
+      "id": "684eb4b15d05096189ac9fba"
+    }
+  ],
   "meta": {
     "title": "The ASIC Advantage: Why Australia’s Forex Watchdog Sets the Global Gold Standard"
   },
