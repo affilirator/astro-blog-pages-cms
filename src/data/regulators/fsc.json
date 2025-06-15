@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T06:51:07.363Z",
-  "updatedAt": "2025-06-15T07:41:16.402Z",
+  "updatedAt": "2025-06-15T07:41:53.001Z",
   "generateData": false,
   "name": "Financial Services Commission (FSC)",
   "shortName": "FSC",
@@ -10,7 +10,7 @@
   "established": 2001,
   "maxLeverage": "1:1000",
   "assetLeverageMapping": [],
-  "minDepositRequirement": 1000000,
+  "minDepositRequirement": 21500,
   "website": "https://www.fscmauritius.org",
   "faqs": [],
   "trustScore": 85,
