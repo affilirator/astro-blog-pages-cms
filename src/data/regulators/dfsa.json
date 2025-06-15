@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T00:39:17.786Z",
-  "updatedAt": "2025-06-15T00:39:17.786Z",
+  "updatedAt": "2025-06-15T00:46:59.069Z",
   "generateData": false,
   "name": "Dubai Financial Services Authority (DFSA)",
   "shortName": "DFSA",
@@ -13,7 +13,20 @@
   "website": "https://www.dfsa.ae",
   "faqs": [],
   "trustScore": 90,
-  "brokerRequirements": [],
+  "brokerRequirements": [
+    {
+      "requirement": "Local Presence: Physical office + senior management in Dubai ",
+      "id": "684e17ca2d692ac2a0574f2d"
+    },
+    {
+      "requirement": "Capital Proof: Minimum $500k–$1M (category-dependent)",
+      "id": "684e17d32d692ac2a0574f2e"
+    },
+    {
+      "requirement": "Compliance Architecture: AML/fraud systems audited by DFSA-recognized firms ",
+      "id": "684e17eb2d692ac2a0574f2f"
+    }
+  ],
   "investorProtection": [],
   "pubDate": "2025-06-15T00:37:18.107Z",
   "slug": "dfsa",
