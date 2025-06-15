@@ -1,0 +1,41 @@
+{
+  "createdAt": "2025-06-15T15:17:55.940Z",
+  "updatedAt": "2025-06-15T15:17:55.940Z",
+  "name": "TradingView",
+  "isProprietary": false,
+  "logo": "684ee3de88e8598590878278",
+  "type": [
+    "multi-platform"
+  ],
+  "description": "Born in 2011 from the minds of Stan Bokov, Denis Globa, and Constantin Ivanov (creators of professional platform MultiCharts), TradingView solved a radical problem: democratizing institutional-grade analysis. Their \"Look First, Then Leap\" philosophy wasn't just branding—it encoded a methodological shift from impulsive trading to data-driven decisions.",
+  "rating": 8.2,
+  "yearReleased": 2011,
+  "supportedDevices": [],
+  "tradingFeatures": [],
+  "chartsAndAnalysis": [],
+  "automationCapabilities": [],
+  "pros": [],
+  "cons": [],
+  "pricing": {
+    "isFree": false,
+    "baseCost": 167.88,
+    "pricingModel": [
+      "freemium",
+      "subscription"
+    ],
+    "pricingDetails": "TradingView’s tiered model sparks debate among forex traders. Casual traders thrive on Essential, but Premium pays for itself via backtesting alone. Save 16% with annual billing."
+  },
+  "userExperience": {},
+  "screenshots": [],
+  "downloadLinks": {},
+  "faqs": [],
+  "pubDate": "2025-06-15T14:57:57.105Z",
+  "slug": "tradingview",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "draft",
+  "author": "683f46927e7deb35fd6bca83",
+  "meta": {
+    "description": "At $56/month (Premium), TradingView delivers 90% of Bloomberg’s charting at 1% of the cost. For forex traders prioritizing technical precision and community insight, it’s the undisputed champion."
+  },
+  "id": "684ee42388e859859087828c"
+}
