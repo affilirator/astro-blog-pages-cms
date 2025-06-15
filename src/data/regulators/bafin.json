@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T05:45:49.292Z",
-  "updatedAt": "2025-06-15T05:57:54.871Z",
+  "updatedAt": "2025-06-15T06:00:49.685Z",
   "generateData": false,
   "name": "Federal Financial Supervisory Authority (BaFin)",
   "shortName": "BaFin",
@@ -9,7 +9,33 @@
   "region": "Europe",
   "established": 2002,
   "maxLeverage": "Variable",
-  "assetLeverageMapping": [],
+  "assetLeverageMapping": [
+    {
+      "asset": "Major Currency Pairs (e.g., EUR/USD)",
+      "leverage": "30:1",
+      "id": "684e6111622edd5268e1dd1c"
+    },
+    {
+      "asset": "Non-Major Currency Pairs, Gold",
+      "leverage": "20:1",
+      "id": "684e612c622edd5268e1dd1d"
+    },
+    {
+      "asset": "Commodities (ex-Gold)",
+      "leverage": "10:1",
+      "id": "684e6144622edd5268e1dd1e"
+    },
+    {
+      "asset": "Equities",
+      "leverage": "5:1",
+      "id": "684e6163622edd5268e1dd1f"
+    },
+    {
+      "asset": "Cryptocurrencies",
+      "leverage": "2:1",
+      "id": "684e6185622edd5268e1dd20"
+    }
+  ],
   "minDepositRequirement": 730000,
   "website": "https://www.deutsche-boerse.com/dbg-en/",
   "faqs": [],
