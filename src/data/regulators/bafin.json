@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T05:45:49.292Z",
-  "updatedAt": "2025-06-15T06:36:04.343Z",
+  "updatedAt": "2025-06-15T06:36:31.798Z",
   "generateData": false,
   "name": "Federal Financial Supervisory Authority (BaFin)",
   "shortName": "BaFin",
@@ -48,6 +48,14 @@
     {
       "requirement": "Client funds must be held in top-tier banks, ring-fenced from operational capital ",
       "id": "684e69ab622edd5268e1dd36"
+    },
+    {
+      "requirement": "Compensation Scheme: The EdW Fund covers up to €20,000 if a broker defaults.",
+      "id": "684e69d9622edd5268e1dd38"
+    },
+    {
+      "requirement": "Governance: Two expert managers with clean histories must oversee operations ",
+      "id": "684e69e0622edd5268e1dd39"
     }
   ],
   "investorProtection": [
