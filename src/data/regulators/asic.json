@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T08:20:32.932Z",
-  "updatedAt": "2025-06-15T08:54:36.342Z",
+  "updatedAt": "2025-06-15T08:56:02.497Z",
   "generateData": false,
   "name": "Australian Securities and Investments Commission (ASIC)",
   "shortName": "ASIC",
@@ -29,7 +29,20 @@
       "id": "684e8a365d05096189ac9fb5"
     }
   ],
-  "investorProtection": [],
+  "investorProtection": [
+    {
+      "protection": "Segregated Accounts: Client funds must be held in top-tier Australian banks, separate from broker operational accounts. If your broker collapses, your capital isn’t part of the bankruptcy pool ",
+      "id": "684e8a785d05096189ac9fb6"
+    },
+    {
+      "protection": "Negative Balance Protection: You’ll never owe money beyond your account balance—a critical shield during black swan events",
+      "id": "684e8a895d05096189ac9fb7"
+    },
+    {
+      "protection": "Compensation Access: AUD 250,000 coverage per claimant via the National Guarantee Fund (though less robust than the UK’s FSCS) ",
+      "id": "684e8a9b5d05096189ac9fb8"
+    }
+  ],
   "pubDate": "2025-06-15T07:49:44.331Z",
   "lastmod": "2025-06-15T07:49:44.331Z",
   "relatedLinks": [],
