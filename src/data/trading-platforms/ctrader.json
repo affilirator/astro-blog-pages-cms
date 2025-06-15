@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T12:54:33.949Z",
-  "updatedAt": "2025-06-15T14:38:54.401Z",
+  "updatedAt": "2025-06-15T14:41:37.513Z",
   "name": "cTrader",
   "isProprietary": false,
   "logo": "684ec27f22b0aa8856612d54",
@@ -83,7 +83,7 @@
   "pubDate": "2025-06-15T12:36:55.463Z",
   "slug": "ctrader",
   "blog": "684042e245e28e4550cbd4e6",
-  "status": "draft",
+  "status": "published",
   "author": "683f46927e7deb35fd6bca83",
   "meta": {
     "title": "Beyond MetaTrader: Why cTrader is Winning Over the Modern Forex Trader",
