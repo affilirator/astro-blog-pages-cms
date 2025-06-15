@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T08:20:32.932Z",
-  "updatedAt": "2025-06-15T08:20:32.932Z",
+  "updatedAt": "2025-06-15T08:23:14.087Z",
   "generateData": false,
   "name": "Australian Securities and Investments Commission (ASIC)",
   "shortName": "ASIC",
@@ -26,6 +26,9 @@
   "status": "draft",
   "tenant": "683f46937e7deb35fd6bca89",
   "standoutFeatures": [],
-  "meta": {},
+  "meta": {
+    "title": "The ASIC Advantage: Why Australia’s Forex Watchdog Sets the Global Gold Standard"
+  },
+  "logo": "684e82c5e18ef121e198c580",
   "id": "684e825019528d0a89b10c9d"
 }
