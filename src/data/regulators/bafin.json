@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T05:45:49.292Z",
-  "updatedAt": "2025-06-15T05:48:32.042Z",
+  "updatedAt": "2025-06-15T05:57:54.871Z",
   "generateData": false,
   "name": "Federal Financial Supervisory Authority (BaFin)",
   "shortName": "BaFin",
@@ -24,6 +24,9 @@
   "blog": "684042e245e28e4550cbd4e6",
   "status": "draft",
   "tenant": "683f46937e7deb35fd6bca89",
-  "meta": {},
+  "meta": {
+    "title": "Beyond Compliance: How BaFin Shapes Germany’s Forex Trading Industry"
+  },
+  "standoutFeatures": [],
   "id": "684e5e0da603e461e10d9a2f"
 }
