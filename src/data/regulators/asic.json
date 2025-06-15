@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T08:20:32.932Z",
-  "updatedAt": "2025-06-15T08:51:58.343Z",
+  "updatedAt": "2025-06-15T08:54:36.342Z",
   "generateData": false,
   "name": "Australian Securities and Investments Commission (ASIC)",
   "shortName": "ASIC",
@@ -15,7 +15,20 @@
   "website": "https://asic.gov.au",
   "faqs": [],
   "trustScore": 95,
-  "brokerRequirements": [],
+  "brokerRequirements": [
+    {
+      "requirement": "Minimum AUD 1 million in net tangible assets, 50% held in cash. If capital dips below 110% of requirements, monthly ASIC reporting kicks in",
+      "id": "684e8a065d05096189ac9fb3"
+    },
+    {
+      "requirement": "Physical offices and senior managers in Australia—no “brass plate” entities",
+      "id": "684e8a1c5d05096189ac9fb4"
+    },
+    {
+      "requirement": "ASIC-regulated forex brokers can’t target jurisdictions where services violate local laws (e.g., Pepperstone exiting Japan in 2014)",
+      "id": "684e8a365d05096189ac9fb5"
+    }
+  ],
   "investorProtection": [],
   "pubDate": "2025-06-15T07:49:44.331Z",
   "lastmod": "2025-06-15T07:49:44.331Z",
