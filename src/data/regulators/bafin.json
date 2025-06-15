@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T05:45:49.292Z",
-  "updatedAt": "2025-06-15T06:33:53.747Z",
+  "updatedAt": "2025-06-15T06:34:41.286Z",
   "generateData": false,
   "name": "Federal Financial Supervisory Authority (BaFin)",
   "shortName": "BaFin",
@@ -41,7 +41,20 @@
   "faqs": [],
   "trustScore": 93,
   "brokerRequirements": [],
-  "investorProtection": [],
+  "investorProtection": [
+    {
+      "protection": "Negative Balance Protection: You cannot lose more than your account balance",
+      "id": "684e6957622edd5268e1dd32"
+    },
+    {
+      "protection": "Transparency Mandates: Brokers must disclose loss percentages (e.g., \"74% of retail CFD accounts lose money\") ",
+      "id": "684e6966622edd5268e1dd33"
+    },
+    {
+      "protection": "Dispute Resolution: Access to the Financial Ombudsman for out-of-court settlements ",
+      "id": "684e6973622edd5268e1dd34"
+    }
+  ],
   "pubDate": "2025-06-15T05:39:34.193Z",
   "lastmod": "2025-06-15T05:39:34.193Z",
   "relatedLinks": [],
