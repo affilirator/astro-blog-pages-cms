@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T12:54:33.949Z",
-  "updatedAt": "2025-06-15T13:54:35.112Z",
+  "updatedAt": "2025-06-15T14:38:54.401Z",
   "name": "cTrader",
   "isProprietary": false,
   "logo": "684ec27f22b0aa8856612d54",
@@ -86,7 +86,8 @@
   "status": "draft",
   "author": "683f46927e7deb35fd6bca83",
   "meta": {
-    "description": "Spotware’s \"Traders First™\" ethos isn’t marketing fluff. cTrader’s 2025 updates (like cloud cBot hosting) prove they listen. For traders craving transparency amid forex’s chaos, this platform is your lighthouse."
+    "title": "Beyond MetaTrader: Why cTrader is Winning Over the Modern Forex Trader",
+    "description": "cTrader connects directly to ECN brokers (like Pepperstone and FxPro) for razor-thin spreads. Its Level II Pricing displays real-time market depth—showing you exactly where liquidity pools sit. During the 2023 CHF flash crash, this transparency saved several of my clients from catastrophic slippage. Spotware’s \"Traders First™\" ethos isn’t marketing fluff. cTrader’s 2025 updates (like cloud cBot hosting) prove they listen. For traders craving transparency amid forex’s chaos, this platform is your lighthouse."
   },
   "developer": "Spotware Systems Ltd (Limassol/London)",
   "yearReleased": 2011,
