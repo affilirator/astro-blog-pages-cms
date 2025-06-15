@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T08:20:32.932Z",
-  "updatedAt": "2025-06-15T08:37:13.409Z",
+  "updatedAt": "2025-06-15T08:51:58.343Z",
   "generateData": false,
   "name": "Australian Securities and Investments Commission (ASIC)",
   "shortName": "ASIC",
@@ -30,5 +30,6 @@
     "title": "The ASIC Advantage: Why Australia’s Forex Watchdog Sets the Global Gold Standard"
   },
   "logo": "684e82c5e18ef121e198c580",
+  "bottomline": "Having covered forex regulation since the early 2000s, I’ve seen cycles of laxity and overcorrection. ASIC strikes a rare balance: robust without being repressive. Its segregated accounts, proactive surveillance, and dispute mechanisms offer tangible security—something I urge every trader to prioritize over ephemeral perks like bonus offers.",
   "id": "684e825019528d0a89b10c9d"
 }
