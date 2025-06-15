@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T12:54:33.949Z",
-  "updatedAt": "2025-06-15T13:40:54.405Z",
+  "updatedAt": "2025-06-15T13:41:53.683Z",
   "name": "cTrader",
   "isProprietary": false,
   "logo": "684ec27f22b0aa8856612d54",
@@ -13,7 +13,20 @@
   "tradingFeatures": [],
   "chartsAndAnalysis": [],
   "automationCapabilities": [],
-  "pros": [],
+  "pros": [
+    {
+      "pro": "Zero cost: Free to download via ctrader.com or your broker ",
+      "id": "684ecd70296739c01b2a7069"
+    },
+    {
+      "pro": "Cloud sync: Works flawlessly across desktop, web, and mobile (iOS/Android)",
+      "id": "684ecd81296739c01b2a706a"
+    },
+    {
+      "pro": "Advanced risk tools: \"Smart Stop Out\" prevents margin calls via partial position closures ",
+      "id": "684ecd90296739c01b2a706b"
+    }
+  ],
   "cons": [
     {
       "con": "Broker limitations: Only about 40 forex brokers support cTrader vs. MT4’s thousands",
