@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T00:39:17.786Z",
-  "updatedAt": "2025-06-15T02:31:18.573Z",
+  "updatedAt": "2025-06-15T02:42:28.314Z",
   "generateData": false,
   "name": "Dubai Financial Services Authority (DFSA)",
   "shortName": "DFSA",
@@ -56,5 +56,13 @@
     "title": "Dubai Financial Services Authority (DFSA)",
     "description": "Dubai Financial Services Authority (DFSA)"
   },
+  "lastmod": "2025-06-15T02:41:22.424Z",
+  "relatedLinks": [
+    {
+      "linkText": "News",
+      "linkUrl": "https://www.dfsa.ae/news",
+      "id": "684e32ec3a229bc602110960"
+    }
+  ],
   "id": "684e1635911e2b2d460db7c6"
 }
