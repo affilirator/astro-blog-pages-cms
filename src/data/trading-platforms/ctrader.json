@@ -1,13 +1,13 @@
 {
   "createdAt": "2025-06-15T12:54:33.949Z",
-  "updatedAt": "2025-06-15T12:54:33.949Z",
+  "updatedAt": "2025-06-15T12:57:01.465Z",
   "name": "cTrader",
   "isProprietary": false,
   "logo": "684ec27f22b0aa8856612d54",
   "type": [
     "multi-platform"
   ],
-  "description": "A cool platform",
+  "description": "cTrader isn’t \"better\" than MetaTrader—it’s different. It treats traders as power users, not passengers. For those craving control, it’s the closest thing to a professional terminal without the $2,000/month fee. As one hedge fund manager told me: “It turns retail traders into institutional players.”",
   "rating": 8.9,
   "supportedDevices": [],
   "tradingFeatures": [],
@@ -29,5 +29,7 @@
   "status": "draft",
   "author": "683f46927e7deb35fd6bca83",
   "meta": {},
+  "developer": "Spotware Systems",
+  "yearReleased": 2011,
   "id": "684ec28922b0aa8856612d5e"
 }
