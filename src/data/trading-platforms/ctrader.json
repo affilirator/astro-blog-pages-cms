@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T12:54:33.949Z",
-  "updatedAt": "2025-06-15T13:38:48.326Z",
+  "updatedAt": "2025-06-15T13:40:54.405Z",
   "name": "cTrader",
   "isProprietary": false,
   "logo": "684ec27f22b0aa8856612d54",
@@ -14,7 +14,20 @@
   "chartsAndAnalysis": [],
   "automationCapabilities": [],
   "pros": [],
-  "cons": [],
+  "cons": [
+    {
+      "con": "Broker limitations: Only about 40 forex brokers support cTrader vs. MT4’s thousands",
+      "id": "684ecd2e296739c01b2a7066"
+    },
+    {
+      "con": "Steeper automation curve: Fewer pre-built cBots than MT4’s EAs",
+      "id": "684ecd40296739c01b2a7067"
+    },
+    {
+      "con": "Position management: No bulk stop-loss for scattered entries (annoying for 0.01-lot scalpers) ",
+      "id": "684ecd52296739c01b2a7068"
+    }
+  ],
   "pricing": {
     "isFree": true,
     "pricingModel": []
