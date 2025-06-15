@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T05:45:49.292Z",
-  "updatedAt": "2025-06-15T06:36:31.798Z",
+  "updatedAt": "2025-06-15T06:37:03.447Z",
   "generateData": false,
   "name": "Federal Financial Supervisory Authority (BaFin)",
   "shortName": "BaFin",
@@ -37,7 +37,7 @@
     }
   ],
   "minDepositRequirement": 730000,
-  "website": "https://www.deutsche-boerse.com/dbg-en/",
+  "website": "https://www.bafin.de/EN/Homepage/homepage_node.html",
   "faqs": [],
   "trustScore": 93,
   "brokerRequirements": [
