@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T07:51:15.401Z",
-  "updatedAt": "2025-06-15T08:14:48.882Z",
+  "updatedAt": "2025-06-15T08:16:08.224Z",
   "generateData": false,
   "name": "Financial Sector Conduct Authority (FSCA)",
   "shortName": "FSCA",
@@ -29,7 +29,7 @@
   "meta": {
     "title": "The FSCA: South Africa’s Forex Watchdog and Your Trading Safety Net"
   },
-  "bottomline": "Since replacing the Financial Services Board (FSB) in 2018, this regulator has engineered a tectonic shift in market oversight, balancing trader protection with market innovation. Having dissected regulatory frameworks from CySEC to ASIC, I find South Africa's approach uniquely adaptive to emerging markets—a blueprint worth global attention.",
+  "bottomline": "The FSCA isn’t perfect—its lack of a compensation fund and slow ODP rollout are real concerns. Yet it’s transformed South Africa into Africa’s most structured forex hub, where traders can access global markets with enforceable rights. As algorithmic trading and crypto CFDs explode, expect tighter FSCA scrutiny on price manipulation and AI ethics.",
   "logo": "684e7cbb8e3cd21a5b869197",
   "id": "684e7b738e3cd21a5b869168"
 }
