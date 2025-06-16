@@ -1,0 +1,33 @@
+{
+  "createdAt": "2025-06-16T12:05:48.916Z",
+  "updatedAt": "2025-06-16T12:05:48.916Z",
+  "name": "MetaTrader 5 (MT5)",
+  "isProprietary": false,
+  "logo": "68500884c45b8e161ba56470",
+  "type": [
+    "multi-platform"
+  ],
+  "description": "MetaTrader 5 (MT5) is an advanced multi-asset platform offering superior tools for trading forex, stocks, and futures. With more timeframes, order types, and built-in economic calendar.",
+  "rating": 9.4,
+  "yearReleased": 2010,
+  "supportedDevices": [],
+  "tradingFeatures": [],
+  "chartsAndAnalysis": [],
+  "automationCapabilities": [],
+  "pros": [],
+  "cons": [],
+  "pricing": {
+    "isFree": false,
+    "pricingModel": []
+  },
+  "userExperience": {},
+  "screenshots": [],
+  "downloadLinks": {},
+  "faqs": [],
+  "pubDate": "2025-06-16T11:32:28.206Z",
+  "slug": "metatrader-5-mt5-",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "published",
+  "meta": {},
+  "id": "6850089cc45b8e161ba56487"
+}
