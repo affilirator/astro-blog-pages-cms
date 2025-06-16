@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-16T12:02:56.752Z",
-  "updatedAt": "2025-06-16T12:13:50.933Z",
+  "updatedAt": "2025-06-16T12:21:37.354Z",
   "name": "MetaTrader 4 (MT4)",
   "isProprietary": false,
   "logo": "685002f0378f0319bb96d295",
@@ -38,5 +38,6 @@
     "description": "Getting started with MetaTrader 4 involves understanding its unique business model, how to access it, and what to expect from its famously robust interface. These initial steps are crucial for setting up a trading environment that works for you, not against you."
   },
   "author": "683f46927e7deb35fd6bca83",
+  "developer": "MetaQuotes",
   "id": "685007f01c48aa81f030b751"
 }
