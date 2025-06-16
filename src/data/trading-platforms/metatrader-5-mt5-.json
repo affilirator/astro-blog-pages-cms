@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-16T12:05:48.916Z",
-  "updatedAt": "2025-06-16T12:05:48.916Z",
+  "updatedAt": "2025-06-16T13:46:30.014Z",
   "name": "MetaTrader 5 (MT5)",
   "isProprietary": false,
   "logo": "68500884c45b8e161ba56470",
@@ -17,10 +17,15 @@
   "pros": [],
   "cons": [],
   "pricing": {
-    "isFree": false,
+    "isFree": true,
     "pricingModel": []
   },
-  "userExperience": {},
+  "userExperience": {
+    "beginnerFriendly": 9.1,
+    "customizability": 8.7,
+    "speed": 9,
+    "reliability": 8.3
+  },
   "screenshots": [],
   "downloadLinks": {},
   "faqs": [],
@@ -29,5 +34,6 @@
   "blog": "684042e245e28e4550cbd4e6",
   "status": "published",
   "meta": {},
+  "developer": "MetaQuotes Software Corp",
   "id": "6850089cc45b8e161ba56487"
 }
