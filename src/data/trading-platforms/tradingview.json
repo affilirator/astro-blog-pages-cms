@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T15:17:55.940Z",
-  "updatedAt": "2025-06-16T06:16:26.216Z",
+  "updatedAt": "2025-06-16T06:18:17.273Z",
   "name": "TradingView",
   "isProprietary": false,
   "logo": "684ee3de88e8598590878278",
@@ -14,7 +14,24 @@
   "tradingFeatures": [],
   "chartsAndAnalysis": [],
   "automationCapabilities": [],
-  "pros": [],
+  "pros": [
+    {
+      "pro": "TradingView offers the most powerful, intuitive, and visually appealing charting package in the retail market.",
+      "id": "684fb6dc2256075d321e30f1"
+    },
+    {
+      "pro": "The integrated social network provides an unparalleled resource for learning, idea generation, and gauging market sentiment",
+      "id": "684fb6f52256075d321e30f2"
+    },
+    {
+      "pro": "The platform is clean, modern, and accessible from any device via the cloud",
+      "id": "684fb7092256075d321e30f3"
+    },
+    {
+      "pro": "Pine Script® provides a relatively easy entry point into the world of coding for traders",
+      "id": "684fb7222256075d321e30f4"
+    }
+  ],
   "cons": [],
   "pricing": {
     "isFree": false,
