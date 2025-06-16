@@ -1,0 +1,38 @@
+{
+  "createdAt": "2025-06-16T12:02:56.752Z",
+  "updatedAt": "2025-06-16T12:02:56.752Z",
+  "name": "MetaTrader 4 (MT4)",
+  "isProprietary": false,
+  "logo": "685002f0378f0319bb96d295",
+  "type": [
+    "multi-platform"
+  ],
+  "description": "MetaTrader 4 (MT4) is the world's most popular forex trading platform. Known for its reliability, extensive technical analysis tools, and support for Expert Advisors (EAs).",
+  "rating": 8.2,
+  "yearReleased": 2005,
+  "supportedDevices": [],
+  "tradingFeatures": [],
+  "chartsAndAnalysis": [],
+  "automationCapabilities": [],
+  "pros": [],
+  "cons": [],
+  "pricing": {
+    "isFree": true,
+    "pricingModel": []
+  },
+  "userExperience": {
+    "beginnerFriendly": 8.6,
+    "customizability": 8,
+    "speed": 8,
+    "reliability": 8.9
+  },
+  "screenshots": [],
+  "downloadLinks": {},
+  "faqs": [],
+  "pubDate": "2025-06-16T11:32:28.206Z",
+  "slug": "metatrader-4-mt4-",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "published",
+  "meta": {},
+  "id": "685007f01c48aa81f030b751"
+}
