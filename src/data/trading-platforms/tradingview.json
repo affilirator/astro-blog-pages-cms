@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T15:17:55.940Z",
-  "updatedAt": "2025-06-16T06:24:49.965Z",
+  "updatedAt": "2025-06-16T06:25:53.179Z",
   "name": "TradingView",
   "isProprietary": false,
   "logo": "684ee3de88e8598590878278",
@@ -44,6 +44,10 @@
     {
       "con": "The constant stream of trading ideas, while valuable for learning, can easily lead to FOMO, analysis paralysis, and undisciplined trading if not managed with a disciplined mindset",
       "id": "684fb8a72256075d321e30f7"
+    },
+    {
+      "con": "Broker Integration Is Not Flawless: The direct trading experience is dependent on the quality of the broker's API and is not always perfect. Key functions like account funding must still be done outside the platform.",
+      "id": "684fb8ea2256075d321e30f8"
     }
   ],
   "pricing": {
