@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T15:17:55.940Z",
-  "updatedAt": "2025-06-15T15:32:40.554Z",
+  "updatedAt": "2025-06-16T06:01:11.115Z",
   "name": "TradingView",
   "isProprietary": false,
   "logo": "684ee3de88e8598590878278",
@@ -31,7 +31,12 @@
     "speed": 7,
     "reliability": 8
   },
-  "screenshots": [],
+  "screenshots": [
+    {
+      "image": "684fb323c1c4991a7c1023d1",
+      "id": "684fb2f7582f6a5d28e77997"
+    }
+  ],
   "downloadLinks": {},
   "faqs": [],
   "pubDate": "2025-06-15T14:57:57.105Z",
