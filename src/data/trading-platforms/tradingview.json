@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T15:17:55.940Z",
-  "updatedAt": "2025-06-16T06:18:17.273Z",
+  "updatedAt": "2025-06-16T06:24:49.965Z",
   "name": "TradingView",
   "isProprietary": false,
   "logo": "684ee3de88e8598590878278",
@@ -32,7 +32,20 @@
       "id": "684fb7222256075d321e30f4"
     }
   ],
-  "cons": [],
+  "cons": [
+    {
+      "con": "Limited Native Automation: It is not a true \"set-and-forget\" algorithmic trading platform. Traders seeking full automation will find MetaTrader's EA ecosystem to be a more direct solution",
+      "id": "684fb8722256075d321e30f5"
+    },
+    {
+      "con": "Aggressive Paywalls and Ads: While the free plan is functional, its limitations (especially the 2-indicator limit) and intrusive ads will quickly push any serious trader towards a paid subscription",
+      "id": "684fb88e2256075d321e30f6"
+    },
+    {
+      "con": "The constant stream of trading ideas, while valuable for learning, can easily lead to FOMO, analysis paralysis, and undisciplined trading if not managed with a disciplined mindset",
+      "id": "684fb8a72256075d321e30f7"
+    }
+  ],
   "pricing": {
     "isFree": false,
     "baseCost": 167.88,
