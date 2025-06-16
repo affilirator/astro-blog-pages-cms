@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-15T15:17:55.940Z",
-  "updatedAt": "2025-06-16T06:01:11.115Z",
+  "updatedAt": "2025-06-16T06:03:37.190Z",
   "name": "TradingView",
   "isProprietary": false,
   "logo": "684ee3de88e8598590878278",
@@ -47,5 +47,6 @@
   "meta": {
     "description": "At $56/month (Premium), TradingView delivers 90% of Bloomberg’s charting at 1% of the cost. For forex traders prioritizing technical precision and community insight, it’s the undisputed champion."
   },
+  "officialWebsite": "https://tradingview.com/",
   "id": "684ee42388e859859087828c"
 }
