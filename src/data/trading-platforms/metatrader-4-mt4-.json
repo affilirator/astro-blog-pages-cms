@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-16T12:02:56.752Z",
-  "updatedAt": "2025-06-16T12:29:54.589Z",
+  "updatedAt": "2025-06-16T12:31:39.134Z",
   "name": "MetaTrader 4 (MT4)",
   "isProprietary": false,
   "logo": "685002f0378f0319bb96d295",
@@ -40,7 +40,28 @@
       "id": "68500e33d9cbc4b17c3c9854"
     }
   ],
-  "cons": [],
+  "cons": [
+    {
+      "con": "Dated User Interface: Lacks the modern aesthetic of newer platforms. ",
+      "id": "68500e48d9cbc4b17c3c9855"
+    },
+    {
+      "con": "Limited Built-in Analytics: Fewer timeframes and indicators than MT5 out of the box. ",
+      "id": "68500e58d9cbc4b17c3c9856"
+    },
+    {
+      "con": "Forex & CFD Focused: Not a true multi-asset platform for trading stocks or futures directly.",
+      "id": "68500e68d9cbc4b17c3c9857"
+    },
+    {
+      "con": "No Native Mac Version: Requires workarounds like VPS or emulation software for macOS users.",
+      "id": "68500e7ad9cbc4b17c3c9858"
+    },
+    {
+      "con": "No Direct Customer Support: Support is handled by the broker, not MetaQuotes.",
+      "id": "68500e8ad9cbc4b17c3c9859"
+    }
+  ],
   "pricing": {
     "isFree": true,
     "pricingModel": []
