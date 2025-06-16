@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-16T12:02:56.752Z",
-  "updatedAt": "2025-06-16T12:26:58.430Z",
+  "updatedAt": "2025-06-16T12:29:54.589Z",
   "name": "MetaTrader 4 (MT4)",
   "isProprietary": false,
   "logo": "685002f0378f0319bb96d295",
@@ -14,7 +14,32 @@
   "tradingFeatures": [],
   "chartsAndAnalysis": [],
   "automationCapabilities": [],
-  "pros": [],
+  "pros": [
+    {
+      "pro": "Stability & Speed: Renowned for its reliable performance and low resource usage. ",
+      "id": "68500ddbd9cbc4b17c3c984f"
+    },
+    {
+      "pro": "Simplicity & Ease of Use: Intuitive and uncluttered, ideal for focused forex trading",
+      "id": "68500dfbd9cbc4b17c3c9850"
+    },
+    {
+      "pro": "Unrivaled Community & Marketplace: Access to the world's largest ecosystem of trading tools and developers",
+      "id": "68500e0cd9cbc4b17c3c9851"
+    },
+    {
+      "pro": "Massive Library of EAs & Indicators: Virtually unlimited options for automation and custom analysis",
+      "id": "68500e20d9cbc4b17c3c9852"
+    },
+    {
+      "pro": "Low System Requirements: Runs smoothly even on older or less powerful hardware.",
+      "id": "68500e25d9cbc4b17c3c9853"
+    },
+    {
+      "pro": "Strong Broker Support: Offered by the vast majority of forex brokers worldwide",
+      "id": "68500e33d9cbc4b17c3c9854"
+    }
+  ],
   "cons": [],
   "pricing": {
     "isFree": true,
