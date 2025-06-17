@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-17T00:34:32.800Z",
-  "updatedAt": "2025-06-17T16:47:47.193Z",
+  "updatedAt": "2025-06-17T22:16:53.968Z",
   "tenant": "683f46937e7deb35fd6bca89",
   "title": "FxPesa Review - A Deep Dive into Kenya's First CMA-Regulated Forex Broker",
   "faqs": [],
@@ -13,7 +13,7 @@
     "6850b776788b53611ad7ae0d"
   ],
   "brokerWebsite": "https://kenyaforexfirm.com/goto/fxpesa/",
-  "brokerRating": 7.4,
+  "brokerRating": 8,
   "assetsOffered": [],
   "acceptsMpesa": true,
   "cmaRegulated": true,
@@ -58,13 +58,13 @@
     }
   ],
   "ratings": {
-    "feesAndCommissions": 7,
+    "feesAndCommissions": 8,
     "safetyAndRegulation": 9,
-    "tradingPlatforms": 8,
-    "depositAndWithdrawals": 7,
-    "accountOpening": 8,
-    "additionalFeatures": 6,
-    "customerService": 7
+    "tradingPlatforms": 7,
+    "depositAndWithdrawals": 8,
+    "accountOpening": 9,
+    "additionalFeatures": 7,
+    "customerService": 8
   },
   "regulatedBy": [],
   "fundingMethods": [],
@@ -82,5 +82,20 @@
     "image": "68518bc078a5473beff3bb46"
   },
   "yearFounded": 2019,
+  "contactDetails": [
+    {
+      "country": "Kenya",
+      "city": "Nairobi",
+      "phone": "0800-211-185",
+      "email": "support@fxpesa.com",
+      "website": "https://kenyaforexfirm.com/goto/fxpesa/",
+      "yearFounded": 2019,
+      "id": "6851e8f57a6d9b5e6aafa0fc"
+    }
+  ],
+  "copyTrading": {
+    "features": []
+  },
+  "hasCopyTrading": false,
   "id": "6850b81881d45ff392e42761"
 }
