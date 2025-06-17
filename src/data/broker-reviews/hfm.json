@@ -1,0 +1,85 @@
+{
+  "createdAt": "2025-06-17T05:12:12.678Z",
+  "updatedAt": "2025-06-17T05:12:12.678Z",
+  "pubDate": "2025-06-17T05:09:14.232Z",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "draft",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "title": "HF Markets Prevously Known as HotForex: Full unbiased Review for Forex Traders in Kenya",
+  "faqs": [],
+  "brokerName": "HF Markets",
+  "image": "68508abddc6435486d47abe8",
+  "description": "a descriptipn",
+  "keywords": [],
+  "brokerWebsite": "https://hfm.com/",
+  "brokerRating": 7.9,
+  "assetsOffered": [],
+  "acceptsMpesa": true,
+  "cmaRegulated": true,
+  "pros": [
+    {
+      "pro": "Regulated by multiple financial authorities including the FCA and CySEC",
+      "id": "6850f92c4f145300048987ba"
+    },
+    {
+      "pro": "Offers a variety of account types suitable for different trading needs",
+      "id": "6850f92c4f145300048987bb"
+    },
+    {
+      "pro": "Provides negative balance protection to safeguard traders",
+      "id": "6850f92c4f145300048987bc"
+    },
+    {
+      "pro": "Access to a wide range of trading instruments including forex, commodities, and indices",
+      "id": "6850f92c4f145300048987bd"
+    },
+    {
+      "pro": "User-friendly trading platforms, including MetaTrader 4 and MetaTrader 5",
+      "id": "6850f92c4f145300048987be"
+    },
+    {
+      "pro": "Competitive spreads and leverage options",
+      "id": "6850f92c4f145300048987bf"
+    }
+  ],
+  "cons": [
+    {
+      "con": "Limited educational resources compared to some competitors",
+      "id": "6850f92c4f145300048987c0"
+    },
+    {
+      "con": "Inactivity fees may apply to dormant accounts",
+      "id": "6850f92c4f145300048987c1"
+    },
+    {
+      "con": "Withdrawal fees can be high depending on the method used",
+      "id": "6850f92c4f145300048987c2"
+    },
+    {
+      "con": "Customer support is not available 24/7",
+      "id": "6850f92c4f145300048987c3"
+    },
+    {
+      "con": "Complex fee structure for some account types",
+      "id": "6850f92c4f145300048987c4"
+    }
+  ],
+  "ratings": {
+    "feesAndCommissions": 8,
+    "safetyAndRegulation": 8,
+    "tradingPlatforms": 9,
+    "depositAndWithdrawals": 7,
+    "accountOpening": 8,
+    "additionalFeatures": 8,
+    "customerService": 7
+  },
+  "regulatedBy": [],
+  "fundingMethods": [],
+  "trust": {
+    "awardsCertifications": []
+  },
+  "logos": [],
+  "slug": "hfm",
+  "meta": {},
+  "id": "6850f92cc253c304b9e9559b"
+}
