@@ -1,0 +1,86 @@
+{
+  "createdAt": "2025-06-17T06:51:50.142Z",
+  "updatedAt": "2025-06-17T06:51:50.142Z",
+  "pubDate": "2025-06-17T06:49:49.258Z",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "draft",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "title": "FBS Forex Broker Review",
+  "faqs": [],
+  "brokerName": "FBS",
+  "image": "68507ff18c5d486ec3e6e511",
+  "quickVerdict": "FBS offers a comprehensive trading experience with a range of account types and competitive spreads suitable for both beginners and advanced traders. Known for its user-friendly platform and robust educational resources, FBS stands out as a versatile choice in the forex market.",
+  "description": "In my deep dive into FBS Forex Broker, I discovered a user-friendly platform packed with competitive spreads and flexible account options, making it ideal for both beginners and seasoned traders. Backed by strong regulatory credentials and a reputation for responsive customer support, FBS truly stands out as a trustworthy choice in the forex trading world.",
+  "keywords": [],
+  "brokerWebsite": "https://fbs.com",
+  "brokerRating": 7.1,
+  "assetsOffered": [],
+  "acceptsMpesa": true,
+  "cmaRegulated": true,
+  "pros": [
+    {
+      "pro": "Wide range of account types catering to different trading needs",
+      "id": "68511086051f4b0004b8fbde"
+    },
+    {
+      "pro": "Competitive spreads and low trading costs",
+      "id": "68511086051f4b0004b8fbdf"
+    },
+    {
+      "pro": "Strong global presence with multiple regulatory licenses",
+      "id": "68511086051f4b0004b8fbe0"
+    },
+    {
+      "pro": "Attractive bonus programs and promotions for traders",
+      "id": "68511086051f4b0004b8fbe1"
+    },
+    {
+      "pro": "User-friendly trading platforms including MetaTrader 4 and 5",
+      "id": "68511086051f4b0004b8fbe2"
+    },
+    {
+      "pro": "24/7 multilingual customer support",
+      "id": "68511086051f4b0004b8fbe3"
+    }
+  ],
+  "cons": [
+    {
+      "con": "Limited educational resources compared to some competitors",
+      "id": "68511086051f4b0004b8fbe4"
+    },
+    {
+      "con": "Withdrawal fees may apply depending on the method used",
+      "id": "68511086051f4b0004b8fbe5"
+    },
+    {
+      "con": "Some negative reviews regarding withdrawal processes",
+      "id": "68511086051f4b0004b8fbe6"
+    },
+    {
+      "con": "Restricted availability in certain countries, including the USA",
+      "id": "68511086051f4b0004b8fbe7"
+    },
+    {
+      "con": "Complex bonus terms that may confuse new traders",
+      "id": "68511086051f4b0004b8fbe8"
+    }
+  ],
+  "ratings": {
+    "feesAndCommissions": 7,
+    "safetyAndRegulation": 6,
+    "tradingPlatforms": 8,
+    "depositAndWithdrawals": 7,
+    "accountOpening": 8,
+    "additionalFeatures": 7,
+    "customerService": 7
+  },
+  "regulatedBy": [],
+  "fundingMethods": [],
+  "trust": {
+    "awardsCertifications": []
+  },
+  "logos": [],
+  "slug": "fbs-review",
+  "meta": {},
+  "id": "68511086420a743c10f899ff"
+}
