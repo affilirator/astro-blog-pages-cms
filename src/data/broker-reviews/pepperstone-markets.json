@@ -1,0 +1,85 @@
+{
+  "createdAt": "2025-06-17T06:04:33.369Z",
+  "updatedAt": "2025-06-17T06:04:33.369Z",
+  "pubDate": "2025-06-17T06:02:50.513Z",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "draft",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "title": "Pepperstone Markets",
+  "faqs": [],
+  "brokerName": "Pepperstone Markets",
+  "image": "68508219c619b4c2948d4058",
+  "description": "Pepperstone Markets",
+  "keywords": [],
+  "brokerWebsite": "https://pepperstone.com/",
+  "brokerRating": 8.4,
+  "assetsOffered": [],
+  "acceptsMpesa": true,
+  "cmaRegulated": true,
+  "pros": [
+    {
+      "pro": "Low trading fees and competitive spreads",
+      "id": "68510571a24375000482c66e"
+    },
+    {
+      "pro": "Access to a wide range of trading platforms, including MetaTrader 4, MetaTrader 5, and cTrader",
+      "id": "68510571a24375000482c66f"
+    },
+    {
+      "pro": "Strong regulatory oversight by multiple authorities such as ASIC, FCA, and CySEC",
+      "id": "68510571a24375000482c670"
+    },
+    {
+      "pro": "Fast and reliable execution speeds",
+      "id": "68510571a24375000482c671"
+    },
+    {
+      "pro": "Comprehensive educational resources and market analysis tools",
+      "id": "68510571a24375000482c672"
+    },
+    {
+      "pro": "Excellent customer support available 24/5",
+      "id": "68510571a24375000482c673"
+    }
+  ],
+  "cons": [
+    {
+      "con": "Limited product range, primarily focused on Forex and CFDs",
+      "id": "68510571a24375000482c674"
+    },
+    {
+      "con": "No proprietary trading platform",
+      "id": "68510571a24375000482c675"
+    },
+    {
+      "con": "Inactivity fees may apply",
+      "id": "68510571a24375000482c676"
+    },
+    {
+      "con": "Limited availability of certain advanced trading tools outside of the cTrader platform",
+      "id": "68510571a24375000482c677"
+    },
+    {
+      "con": "Does not accept clients from certain countries, including the USA",
+      "id": "68510571a24375000482c678"
+    }
+  ],
+  "ratings": {
+    "feesAndCommissions": 9,
+    "safetyAndRegulation": 9,
+    "tradingPlatforms": 8,
+    "depositAndWithdrawals": 8,
+    "accountOpening": 9,
+    "additionalFeatures": 8,
+    "customerService": 8
+  },
+  "regulatedBy": [],
+  "fundingMethods": [],
+  "trust": {
+    "awardsCertifications": []
+  },
+  "logos": [],
+  "slug": "pepperstone-markets",
+  "meta": {},
+  "id": "685105714af8cf6acb8f2f24"
+}
