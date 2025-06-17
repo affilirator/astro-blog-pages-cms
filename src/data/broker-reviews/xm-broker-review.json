@@ -1,0 +1,86 @@
+{
+  "createdAt": "2025-06-17T06:13:09.774Z",
+  "updatedAt": "2025-06-17T06:13:09.774Z",
+  "pubDate": "2025-06-17T06:10:31.240Z",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "published",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "title": "XM Review 2025 - Unbiased Forex Broker Review",
+  "faqs": [],
+  "brokerName": "XM",
+  "image": "68508219c619b4c2948d4058",
+  "quickVerdict": "XM stands out in 2025 as a reliable forex broker, offering competitive spreads and a user-friendly platform. With a strong focus on client satisfaction and a wide range of trading instruments, XM caters effectively to both novice and experienced traders, ensuring a robust trading experience.",
+  "description": "// Extract and return the generated verdict\n    const verdict = response.choices[0]?.message?.content?.trim() || '';\n    return verdict;",
+  "keywords": [],
+  "brokerWebsite": "https://xm.com",
+  "brokerRating": 7.6,
+  "assetsOffered": [],
+  "acceptsMpesa": true,
+  "cmaRegulated": true,
+  "pros": [
+    {
+      "pro": "Low trading fees and competitive spreads",
+      "id": "68510775ecf277000461a625"
+    },
+    {
+      "pro": "Wide range of trading instruments including forex, commodities, and indices",
+      "id": "68510775ecf277000461a626"
+    },
+    {
+      "pro": "User-friendly trading platforms including MT4 and MT5",
+      "id": "68510775ecf277000461a627"
+    },
+    {
+      "pro": "Strong regulatory oversight by multiple authorities like CySEC and ASIC",
+      "id": "68510775ecf277000461a628"
+    },
+    {
+      "pro": "Comprehensive educational resources for traders",
+      "id": "68510775ecf277000461a629"
+    },
+    {
+      "pro": "24/5 customer support available in multiple languages",
+      "id": "68510775ecf277000461a62a"
+    }
+  ],
+  "cons": [
+    {
+      "con": "Limited availability of cryptocurrency trading",
+      "id": "68510775ecf277000461a62b"
+    },
+    {
+      "con": "No support for U.S. clients due to regulatory restrictions",
+      "id": "68510775ecf277000461a62c"
+    },
+    {
+      "con": "Inactivity fees may apply after 90 days of no trading",
+      "id": "68510775ecf277000461a62d"
+    },
+    {
+      "con": "Withdrawal fees may apply depending on the method used",
+      "id": "68510775ecf277000461a62e"
+    },
+    {
+      "con": "Limited advanced trading tools for experienced traders",
+      "id": "68510775ecf277000461a62f"
+    }
+  ],
+  "ratings": {
+    "feesAndCommissions": 7,
+    "safetyAndRegulation": 8,
+    "tradingPlatforms": 8,
+    "depositAndWithdrawals": 7,
+    "accountOpening": 8,
+    "additionalFeatures": 7,
+    "customerService": 8
+  },
+  "regulatedBy": [],
+  "fundingMethods": [],
+  "trust": {
+    "awardsCertifications": []
+  },
+  "logos": [],
+  "slug": "xm-broker-review",
+  "meta": {},
+  "id": "6851077551388e130fba71de"
+}
