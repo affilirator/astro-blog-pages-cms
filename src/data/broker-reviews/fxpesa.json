@@ -1,18 +1,18 @@
 {
   "createdAt": "2025-06-17T00:34:32.800Z",
-  "updatedAt": "2025-06-17T15:58:28.635Z",
+  "updatedAt": "2025-06-17T16:20:06.551Z",
   "tenant": "683f46937e7deb35fd6bca89",
   "title": "FxPesa Review - A Deep Dive into Kenya's First CMA-Regulated Forex Broker",
   "faqs": [],
   "brokerName": "Fxpesa by EGM Securities",
-  "image": "6850b4e0f7288df98b1d777c",
+  "image": "685190fcae60f02bfbc2919c",
   "quickVerdict": "Fxpesa by EGM Securities offers a robust trading platform tailored for both novice and seasoned traders, underscored by innovative features that appeal to modern investors. While it boasts a cool, dynamic approach, users should ensure it aligns with their specific trading needs and regulatory preferences.",
-  "description": "My Cool titltle",
+  "description": "Trading with a local broker is definitely attractive. It almost feels like the service is personalized to you. I can see why any number of you might prefer to trade with FXPesa:",
   "keywords": [],
   "author": [
     "6850b776788b53611ad7ae0d"
   ],
-  "brokerWebsite": "fxpesa.com",
+  "brokerWebsite": "https://kenyaforexfirm.com/goto/fxpesa/",
   "brokerRating": 7.7,
   "assetsOffered": [],
   "acceptsMpesa": true,
@@ -81,5 +81,6 @@
     "description": "FxPesa is not only legit but also one of the best forex brokers in Kenya. Apart from its strong reputation, find out more in this unbiased review.",
     "image": "68518bc078a5473beff3bb46"
   },
+  "yearFounded": 2019,
   "id": "6850b81881d45ff392e42761"
 }
