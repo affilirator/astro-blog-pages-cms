@@ -1,0 +1,53 @@
+{
+  "createdAt": "2025-06-17T15:52:29.150Z",
+  "updatedAt": "2025-06-17T15:52:29.150Z",
+  "status": "published",
+  "alt": "FXPesa account type reviews",
+  "blog": "684042e245e28e4550cbd4e6",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "prefix": "r2media",
+  "filename": "fxpesa-account-types-review.webp",
+  "mimeType": "image/webp",
+  "filesize": 115828,
+  "width": 2400,
+  "height": 1222,
+  "focalX": 50,
+  "focalY": 50,
+  "sizes": {
+    "small": {
+      "width": 200,
+      "height": 200,
+      "mimeType": "image/webp",
+      "filesize": 4562,
+      "filename": "fxpesa-account-types-review-200x200.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-account-types-review-200x200.webp"
+    },
+    "thumbnail": {
+      "width": 400,
+      "height": 204,
+      "mimeType": "image/webp",
+      "filesize": 9372,
+      "filename": "fxpesa-account-types-review-400x204.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-account-types-review-400x204.webp"
+    },
+    "card": {
+      "width": 768,
+      "height": 391,
+      "mimeType": "image/webp",
+      "filesize": 26512,
+      "filename": "fxpesa-account-types-review-768x391.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-account-types-review-768x391.webp"
+    },
+    "portrait": {
+      "width": 1024,
+      "height": 521,
+      "mimeType": "image/webp",
+      "filesize": 40152,
+      "filename": "fxpesa-account-types-review-1024x521.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-account-types-review-1024x521.webp"
+    }
+  },
+  "id": "68518f3de9d6bfcac478e729",
+  "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-account-types-review.webp",
+  "thumbnailURL": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-account-types-review-400x204.webp"
+}
