@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-17T05:12:12.678Z",
-  "updatedAt": "2025-06-17T05:48:02.464Z",
+  "updatedAt": "2025-06-17T05:56:33.486Z",
   "pubDate": "2025-06-17T05:09:14.232Z",
   "blog": "684042e245e28e4550cbd4e6",
   "status": "draft",
@@ -12,7 +12,7 @@
   "description": "a descriptipn",
   "keywords": [],
   "brokerWebsite": "https://hfm.com/",
-  "brokerRating": 7.7,
+  "brokerRating": 7.9,
   "assetsOffered": [],
   "acceptsMpesa": true,
   "cmaRegulated": true,
@@ -66,7 +66,7 @@
   ],
   "ratings": {
     "feesAndCommissions": 8,
-    "safetyAndRegulation": 7,
+    "safetyAndRegulation": 8,
     "tradingPlatforms": 9,
     "depositAndWithdrawals": 7,
     "accountOpening": 8,
