@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-17T02:22:04.511Z",
-  "updatedAt": "2025-06-17T02:25:23.143Z",
+  "updatedAt": "2025-06-17T02:37:58.633Z",
   "status": "draft",
   "tenant": "683f46937e7deb35fd6bca89",
   "title": "Exness Review in Kenya? Is Exness a Good Broker to Trade With?",
@@ -73,6 +73,8 @@
   "logos": [],
   "slug": "exness",
   "blog": "684042e245e28e4550cbd4e6",
-  "meta": {},
+  "meta": {
+    "description": "the description"
+  },
   "id": "6850d14ce1093de74a02f2fb"
 }
