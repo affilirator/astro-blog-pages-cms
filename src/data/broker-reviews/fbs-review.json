@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-17T06:51:50.142Z",
-  "updatedAt": "2025-06-17T06:51:50.142Z",
+  "updatedAt": "2025-06-17T06:54:34.741Z",
   "pubDate": "2025-06-17T06:49:49.258Z",
   "blog": "684042e245e28e4550cbd4e6",
   "status": "draft",
@@ -82,5 +82,8 @@
   "logos": [],
   "slug": "fbs-review",
   "meta": {},
+  "author": [
+    "6850b776788b53611ad7ae0d"
+  ],
   "id": "68511086420a743c10f899ff"
 }
