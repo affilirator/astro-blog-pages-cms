@@ -1,0 +1,53 @@
+{
+  "createdAt": "2025-06-17T15:46:34.797Z",
+  "updatedAt": "2025-06-17T15:46:34.797Z",
+  "status": "published",
+  "alt": "Is Fxpesa legit in Kenya",
+  "blog": "684042e245e28e4550cbd4e6",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "prefix": "r2media",
+  "filename": "is-fxpesa-legit-in-kenya.webp",
+  "mimeType": "image/webp",
+  "filesize": 12018,
+  "width": 700,
+  "height": 350,
+  "focalX": 50,
+  "focalY": 50,
+  "sizes": {
+    "small": {
+      "width": 200,
+      "height": 200,
+      "mimeType": "image/webp",
+      "filesize": 4738,
+      "filename": "is-fxpesa-legit-in-kenya-200x200.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/is-fxpesa-legit-in-kenya-200x200.webp"
+    },
+    "thumbnail": {
+      "width": 400,
+      "height": 200,
+      "mimeType": "image/webp",
+      "filesize": 6762,
+      "filename": "is-fxpesa-legit-in-kenya-400x200.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/is-fxpesa-legit-in-kenya-400x200.webp"
+    },
+    "card": {
+      "width": null,
+      "height": null,
+      "mimeType": null,
+      "filesize": null,
+      "filename": null,
+      "url": null
+    },
+    "portrait": {
+      "width": null,
+      "height": null,
+      "mimeType": null,
+      "filesize": null,
+      "filename": null,
+      "url": null
+    }
+  },
+  "id": "68518ddaa23e7cfe5923ce45",
+  "url": "https://api.kenyaforexfirm.com/api/r2media/file/is-fxpesa-legit-in-kenya.webp",
+  "thumbnailURL": "https://api.kenyaforexfirm.com/api/r2media/file/is-fxpesa-legit-in-kenya-400x200.webp"
+}
