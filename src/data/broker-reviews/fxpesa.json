@@ -1,0 +1,81 @@
+{
+  "createdAt": "2025-06-17T00:34:32.800Z",
+  "updatedAt": "2025-06-17T00:34:32.800Z",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "title": "My Cool titltle",
+  "faqs": [],
+  "brokerName": "Fxpesa by EGM Securities",
+  "image": "6850b4e0f7288df98b1d777c",
+  "quickVerdict": "Fxpesa by EGM Securities offers a robust trading platform tailored for both novice and seasoned traders, underscored by innovative features that appeal to modern investors. While it boasts a cool, dynamic approach, users should ensure it aligns with their specific trading needs and regulatory preferences.",
+  "description": "My Cool titltle",
+  "keywords": [],
+  "author": [
+    "6850b776788b53611ad7ae0d"
+  ],
+  "brokerWebsite": "fxpesa.com",
+  "brokerRating": 7.1,
+  "assetsOffered": [],
+  "acceptsMpesa": true,
+  "cmaRegulated": true,
+  "pros": [
+    {
+      "pro": "Regulated by the Capital Markets Authority of Kenya",
+      "id": "6850b818537cd10004e1f3fa"
+    },
+    {
+      "pro": "Offers a variety of trading instruments including forex, indices, and commodities",
+      "id": "6850b818537cd10004e1f3fb"
+    },
+    {
+      "pro": "User-friendly trading platforms including MetaTrader 4 and a proprietary mobile app",
+      "id": "6850b818537cd10004e1f3fc"
+    },
+    {
+      "pro": "Competitive spreads and low trading fees",
+      "id": "6850b818537cd10004e1f3fd"
+    },
+    {
+      "pro": "Local customer support available in Kenya",
+      "id": "6850b818537cd10004e1f3fe"
+    }
+  ],
+  "cons": [
+    {
+      "con": "Limited cryptocurrency offerings compared to some global brokers",
+      "id": "6850b818537cd10004e1f3ff"
+    },
+    {
+      "con": "Primarily focused on the Kenyan market, which may limit international appeal",
+      "id": "6850b818537cd10004e1f400"
+    },
+    {
+      "con": "Educational resources are not as extensive as some competitors",
+      "id": "6850b818537cd10004e1f401"
+    },
+    {
+      "con": "Withdrawal fees may apply, depending on the method used",
+      "id": "6850b818537cd10004e1f402"
+    }
+  ],
+  "ratings": {
+    "feesAndCommissions": 7,
+    "safetyAndRegulation": 8,
+    "tradingPlatforms": 7,
+    "depositAndWithdrawals": 6,
+    "accountOpening": 8,
+    "additionalFeatures": 7,
+    "customerService": 7
+  },
+  "regulatedBy": [],
+  "fundingMethods": [],
+  "pubDate": "2025-06-17T00:32:10.021Z",
+  "trust": {
+    "awardsCertifications": []
+  },
+  "logos": [],
+  "slug": "fxpesa",
+  "blog": "684042e245e28e4550cbd4e6",
+  "status": "published",
+  "meta": {},
+  "id": "6850b81881d45ff392e42761"
+}
