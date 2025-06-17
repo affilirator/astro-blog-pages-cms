@@ -1,0 +1,81 @@
+{
+  "createdAt": "2025-06-17T03:09:24.668Z",
+  "updatedAt": "2025-06-17T03:09:24.668Z",
+  "status": "draft",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "title": "IC Markets Global Review: Does this Forex Broker Deliver?",
+  "faqs": [],
+  "brokerName": "IC Markets Global",
+  "image": "68508abddc6435486d47abe8",
+  "quickVerdict": "You’ll find tight spreads and deep liquidity at IC Markets Global. You can trade forex and CFDs on popular platforms like MT4 and MT5. Fees stay low, but make sure local rules match the broker’s global structure.",
+  "description": "A review of IC Markets Global in 2025",
+  "keywords": [],
+  "author": [
+    "6850b776788b53611ad7ae0d"
+  ],
+  "brokerWebsite": "https://icmarkets.com/",
+  "brokerRating": 8,
+  "assetsOffered": [],
+  "acceptsMpesa": true,
+  "cmaRegulated": true,
+  "pros": [
+    {
+      "pro": "Low spreads and competitive pricing",
+      "id": "6850dc64ed397d00041758af"
+    },
+    {
+      "pro": "Access to multiple trading platforms including MetaTrader 4 and 5",
+      "id": "6850dc64ed397d00041758b0"
+    },
+    {
+      "pro": "Regulated by multiple authorities including ASIC and CySEC",
+      "id": "6850dc64ed397d00041758b1"
+    },
+    {
+      "pro": "High leverage options available for traders",
+      "id": "6850dc64ed397d00041758b2"
+    },
+    {
+      "pro": "Wide range of available trading instruments including forex, commodities, and indices",
+      "id": "6850dc64ed397d00041758b3"
+    }
+  ],
+  "cons": [
+    {
+      "con": "Limited educational resources for beginners",
+      "id": "6850dc64ed397d00041758b4"
+    },
+    {
+      "con": "No significant bonuses or promotions",
+      "id": "6850dc64ed397d00041758b5"
+    },
+    {
+      "con": "Customer support may not be available 24/7",
+      "id": "6850dc64ed397d00041758b6"
+    },
+    {
+      "con": "Withdrawal fees may apply depending on the method",
+      "id": "6850dc64ed397d00041758b7"
+    }
+  ],
+  "ratings": {
+    "feesAndCommissions": 9,
+    "safetyAndRegulation": 8,
+    "tradingPlatforms": 9,
+    "depositAndWithdrawals": 8,
+    "accountOpening": 7,
+    "additionalFeatures": 8,
+    "customerService": 7
+  },
+  "regulatedBy": [],
+  "fundingMethods": [],
+  "pubDate": "2025-06-17T03:06:00.915Z",
+  "trust": {
+    "awardsCertifications": []
+  },
+  "logos": [],
+  "slug": "ic-markets-global",
+  "blog": "684042e245e28e4550cbd4e6",
+  "meta": {},
+  "id": "6850dc64b2dd62e38b46cc94"
+}
