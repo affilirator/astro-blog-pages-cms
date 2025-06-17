@@ -1,8 +1,8 @@
 {
   "createdAt": "2025-06-17T00:34:32.800Z",
-  "updatedAt": "2025-06-17T00:34:32.800Z",
+  "updatedAt": "2025-06-17T15:38:35.791Z",
   "tenant": "683f46937e7deb35fd6bca89",
-  "title": "My Cool titltle",
+  "title": "FxPesa Review",
   "faqs": [],
   "brokerName": "Fxpesa by EGM Securities",
   "image": "6850b4e0f7288df98b1d777c",
@@ -76,6 +76,10 @@
   "slug": "fxpesa",
   "blog": "684042e245e28e4550cbd4e6",
   "status": "published",
-  "meta": {},
+  "meta": {
+    "title": "Is FXPesa Legit In Kenya? Find Out in Our Detailed Review",
+    "description": "FxPesa is not only legit but also one of the best forex brokers in Kenya. Apart from its strong reputation, find out more in this unbiased review.",
+    "image": "68518bc078a5473beff3bb46"
+  },
   "id": "6850b81881d45ff392e42761"
 }
