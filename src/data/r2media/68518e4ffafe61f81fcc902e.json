@@ -1,0 +1,53 @@
+{
+  "createdAt": "2025-06-17T15:48:31.017Z",
+  "updatedAt": "2025-06-17T15:48:31.017Z",
+  "status": "published",
+  "alt": "Fxpesa review in Kenya",
+  "blog": "684042e245e28e4550cbd4e6",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "prefix": "r2media",
+  "filename": "fxpesa-reviews-kenya.webp",
+  "mimeType": "image/webp",
+  "filesize": 36204,
+  "width": 1200,
+  "height": 628,
+  "focalX": 50,
+  "focalY": 50,
+  "sizes": {
+    "small": {
+      "width": 200,
+      "height": 200,
+      "mimeType": "image/webp",
+      "filesize": 4416,
+      "filename": "fxpesa-reviews-kenya-200x200.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-reviews-kenya-200x200.webp"
+    },
+    "thumbnail": {
+      "width": 400,
+      "height": 209,
+      "mimeType": "image/webp",
+      "filesize": 11208,
+      "filename": "fxpesa-reviews-kenya-400x209.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-reviews-kenya-400x209.webp"
+    },
+    "card": {
+      "width": 768,
+      "height": 402,
+      "mimeType": "image/webp",
+      "filesize": 23286,
+      "filename": "fxpesa-reviews-kenya-768x402.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-reviews-kenya-768x402.webp"
+    },
+    "portrait": {
+      "width": 1024,
+      "height": 536,
+      "mimeType": "image/webp",
+      "filesize": 31544,
+      "filename": "fxpesa-reviews-kenya-1024x536.webp",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-reviews-kenya-1024x536.webp"
+    }
+  },
+  "id": "68518e4ffafe61f81fcc902e",
+  "url": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-reviews-kenya.webp",
+  "thumbnailURL": "https://api.kenyaforexfirm.com/api/r2media/file/fxpesa-reviews-kenya-400x209.webp"
+}
