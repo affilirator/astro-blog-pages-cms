@@ -1,0 +1,53 @@
+{
+  "createdAt": "2025-06-17T15:37:36.361Z",
+  "updatedAt": "2025-06-17T15:37:36.361Z",
+  "status": "published",
+  "alt": "FXPesa Review - Is FXPesa legit in Kenya",
+  "blog": "684042e245e28e4550cbd4e6",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "prefix": "r2media",
+  "filename": "ScreenShot2025-06-17at183625.webp",
+  "mimeType": "image/webp",
+  "filesize": 97016,
+  "width": 2836,
+  "height": 1302,
+  "focalX": 50,
+  "focalY": 50,
+  "sizes": {
+    "small": {
+      "width": 200,
+      "height": 200,
+      "mimeType": "image/jpeg",
+      "filesize": 7545,
+      "filename": "ScreenShot2025-06-17at183625-200x200.jpg",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/ScreenShot2025-06-17at183625-200x200.jpg"
+    },
+    "thumbnail": {
+      "width": 400,
+      "height": 184,
+      "mimeType": "image/jpeg",
+      "filesize": 14161,
+      "filename": "ScreenShot2025-06-17at183625-400x184.jpg",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/ScreenShot2025-06-17at183625-400x184.jpg"
+    },
+    "card": {
+      "width": 768,
+      "height": 353,
+      "mimeType": "image/jpeg",
+      "filesize": 36635,
+      "filename": "ScreenShot2025-06-17at183625-768x353.jpg",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/ScreenShot2025-06-17at183625-768x353.jpg"
+    },
+    "portrait": {
+      "width": 1024,
+      "height": 470,
+      "mimeType": "image/jpeg",
+      "filesize": 53900,
+      "filename": "ScreenShot2025-06-17at183625-1024x470.jpg",
+      "url": "https://api.kenyaforexfirm.com/api/r2media/file/ScreenShot2025-06-17at183625-1024x470.jpg"
+    }
+  },
+  "id": "68518bc078a5473beff3bb46",
+  "url": "https://api.kenyaforexfirm.com/api/r2media/file/ScreenShot2025-06-17at183625.webp",
+  "thumbnailURL": "https://api.kenyaforexfirm.com/api/r2media/file/ScreenShot2025-06-17at183625-400x184.jpg"
+}
