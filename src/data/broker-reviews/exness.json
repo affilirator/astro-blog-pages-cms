@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-17T02:22:04.511Z",
-  "updatedAt": "2025-06-17T02:22:04.511Z",
+  "updatedAt": "2025-06-17T02:25:23.143Z",
   "status": "draft",
   "tenant": "683f46937e7deb35fd6bca89",
   "title": "Exness Review in Kenya? Is Exness a Good Broker to Trade With?",
@@ -11,7 +11,7 @@
   "description": "Exness Review in Kenya? Is Exness a Good Broker to Trade With?",
   "keywords": [],
   "brokerWebsite": "https://exness.com",
-  "brokerRating": 7.9,
+  "brokerRating": 8,
   "assetsOffered": [],
   "acceptsMpesa": true,
   "cmaRegulated": true,
@@ -58,9 +58,9 @@
   "ratings": {
     "feesAndCommissions": 8,
     "safetyAndRegulation": 7,
-    "tradingPlatforms": 8,
-    "depositAndWithdrawals": 9,
-    "accountOpening": 8,
+    "tradingPlatforms": 9,
+    "depositAndWithdrawals": 8,
+    "accountOpening": 9,
     "additionalFeatures": 7,
     "customerService": 8
   },
