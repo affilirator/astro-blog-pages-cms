@@ -1,6 +1,6 @@
 {
   "createdAt": "2025-06-17T00:34:32.800Z",
-  "updatedAt": "2025-06-18T02:54:52.579Z",
+  "updatedAt": "2025-06-18T03:04:44.927Z",
   "tenant": "683f46937e7deb35fd6bca89",
   "title": "FxPesa Review - A Deep Dive into Kenya's First CMA-Regulated Forex Broker",
   "faqs": [],
@@ -86,6 +86,7 @@
     {
       "country": "Kenya",
       "city": "Nairobi",
+      "address": "wstlands",
       "phone": "0800-211-185",
       "email": "support@fxpesa.com",
       "website": "https://kenyaforexfirm.com/goto/fxpesa/",
