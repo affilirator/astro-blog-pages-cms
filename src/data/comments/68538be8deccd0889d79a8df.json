@@ -1,0 +1,22 @@
+{
+  "createdAt": "2025-06-19T04:02:48.477Z",
+  "updatedAt": "2025-06-19T04:02:48.477Z",
+  "ratingCategories": [
+    {
+      "category": "Trading Costs",
+      "score": 8,
+      "weight": 0.2,
+      "id": "68538ac09b44dd2c95c26c22"
+    }
+  ],
+  "content": "hooks: {\n        beforeValidate: [assignRatingWeightsHook]\n      },",
+  "author": {
+    "name": "Patrick",
+    "email": "patohkihara@gmail.com"
+  },
+  "blog": "683f5efb5be6c6501c75e045",
+  "depth": 0,
+  "status": "pending",
+  "tenant": "683f46937e7deb35fd6bca89",
+  "id": "68538be8deccd0889d79a8df"
+}
